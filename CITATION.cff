@@ -1,0 +1,19 @@
+title: Digital Humanities Project Template
+version: 0.0.1
+date-released: 2018-1-6
+message: If you need to cite this software, please use the citation below.
+url: https://hacking-history.readthedocs.io
+authors:
+  - family-names: Thomas
+    given-names: David
+    affiliation: "University of South Florida, Dept. of History"
+    email: davidjthomas@usf.edu
+    website: http://thePortus.com
+repository-code: https://github.com/usf-portal/his4936-dh1-project-template
+keywords:
+    - digital humanities
+    - digital history
+    - history
+    - data analysis
+license: MIT
+cff-version: 1.0.3
