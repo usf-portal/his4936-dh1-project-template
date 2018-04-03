@@ -1,0 +1,187 @@
+# ==================================================================SYSTEM FILES
+
+# ===== WINDOWS
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.cab
+*.msi
+*.msm
+*.msp
+*.lnk
+# ===== OSX
+*.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+# ===== LINUX
+.fuse_hidden*
+.directory
+.Trash-*
+
+# ============================================== SETTINGS, RULES, AND MISC FILES
+
+# ===== SUBLIME
+*.sublime-project
+*.sublime-workspace
+sftp-config.json
+*.tmlanguage.cache
+*.tmPreferences.cache
+*.stTheme.cache
+Package Control.last-run
+Package Control.ca-list
+Package Control.ca-bundle
+Package Control.system-ca-bundle
+Package Control.cache/
+Package Control.ca-certs/
+bh_unicode_properties.cache
+GitHub.sublime-settings
+# ===== VIM
+# swap
+[._]*.s[a-w][a-z]
+[._]s[a-w][a-z]
+# session
+Session.vim
+# temporary
+.netrwhist
+*~
+# auto-generated tag files
+tags
+# Visual Studio
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+# ===== OTHERS
+.idea/
+.project
+.cproject
+.nodemonignore
+
+
+# ======================================================================= PYTHON
+# PYTHON CORE
+__pycache__/
+*.pyc
+*.py[cod]
+*$py.class
+*.pcd
+qtcreator-*
+*.user
+*.sqlite3
+.so
+pip-log.txt
+pip-delete-this-directory.txt
+pip-selfcheck.json
+# ===== DJANGO
+local_settings.py
+# ===== SPHINX
+docs/_build/
+# ===== PYINSTALLER
+*.manifest
+*.spec
+# ===== PYBUILDER
+target/
+# ===== JEKYLL
+_site/
+.jekyll-metadata
+# ===== SCRAPY
+.scrapy
+# ===== IPYTHON
+.ipynb_checkpoints/
+.python-version
+# ===== CELERY
+celerybeat-schedule
+# ===== VIRTUAL ENVIRONMENTS
+.env
+.venv/
+venv/
+ENV/
+.Python
+[Bb]in
+[Ii]nclude
+[Ll]ib
+[Ll]ib64
+[Ll]ocal
+[Ss]cripts
+pyvenv.cfg
+.venv
+# ===== TRANSLATION
+*.mo
+*.pot
+public/i18n/*.js
+
+# =========================================================== TESTING & COVERAGE
+htmlcov/
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*,cover
+.hypothesis/
+
+
+# =========================================================== AUTOMATION & TASKS
+# ===== GRUNT
+
+# ===== GULP
+
+# ===== LARAVEL/HOMESTEAD
+Homestead.yaml
+Homestead.json
+/public/css/
+/public/js/
+/vendor
+
+# ===== SASS/LASS
+.sass-cache/
+*.css.map
+# ===== OTHER GENERATED DOCS
+*.dox
+*.wikidoc
+
+# ================================================================== VIRTUAL BOX
+# ===== VAGRANT
+.vagrant/
+# ===== ANSIBLE
+.secrets.yml
+
+# =================================================== DISTRUBTION & NODEJS/BOWER
+bin/
+bower_components/
+build/
+develop=eggs/
+dist/
+downloads/
+eggs/
+env/
+include/
+local/
+lib/
+lib64/
+man/
+node_modules/
+parts/
+sdist/
+tmp/
+.installed.cfg
+.eggs/
+*.log
+*.egg-info/
+*.egg
