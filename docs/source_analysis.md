@@ -9,6 +9,11 @@ See the [README.md](README.md) file for information on how to submit this assign
 
 ## Basic Source Information
 
+Text Analysis
+
+Look at age of rebel side to judge their association with revival
+
+
 * Where is your source located (URL? Or traditional media)
 * What kind of source is it? (Diaries, records of objects, data tables, etc...)
 * Who, or what organization, is responsible for hosting the source (if online), who gathered the information?
