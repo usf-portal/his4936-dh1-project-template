@@ -1,10 +1,15 @@
-# Replace This Title!
+# The Easter Rising
 
 ---
 
-![Replace Me, Sample Image](docs/files/caesarian_code.png)
+![1916 Proclamation](docs/files/1916-Proclamation.jpg)
 
-*Put a caption to your image here, if you want*
+*The Entire 1916 Proclamation*
+
+1. Lauren Leigh
+2. Michael Hall
+3. Stephen DeCasian
+
 
 1. Put an intro image above (if you want)
 2. Change the 1st line of this file to the name of your project
@@ -13,6 +18,7 @@
 
 ---
 
+Insert nonsense about Irish Rebellions and how they are similar to one another, but that ultimately the rebellion in 1916 was different in X ways. Tell digital tools used for project.
 Replace this, putting the introduction/summary of your project here. Leave the credits in the bottom section, however.
 
 ---
