@@ -1,10 +1,15 @@
-# Replace This Title!
+# Project Easter Rising
 
 ---
 
 ![Replace Me, Sample Image](docs/files/caesarian_code.png)
 
 *Put a caption to your image here, if you want*
+
+1. [Lauren Leigh](laurenleigh@mail.usf.edu)
+2. [Michael Hall](https://github.com/mhall11), [mhall11@mail.usf.edu](mhall11@mail.usf.edu)
+3. [Stephen DeCasien](decasien@mail.usf.edu)
+
 
 1. Put an intro image above (if you want)
 2. Change the 1st line of this file to the name of your project
