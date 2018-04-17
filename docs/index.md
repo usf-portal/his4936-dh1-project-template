@@ -2,18 +2,16 @@
 
 ---
 
-![Replace Me, Sample Image](docs/files/caesarian_code.png)
+![Finean Brotherhood. Sourced from http://irishhistoryreview.com/wp/2017/03/29/america-and-the-easter-rising/](docs/files/easterrisingmarch.jpg)
 
-*Put a caption to your image here, if you want*
+*Poster for Finean Brotherhood*
 
 1. [Lauren Leigh](laurenleigh@mail.usf.edu)
 2. [Michael Hall](https://github.com/mhall11), [mhall11@mail.usf.edu](mhall11@mail.usf.edu)
 3. [Stephen DeCasien](decasien@mail.usf.edu)
 
 
-1. Put an intro image above (if you want)
-2. Change the 1st line of this file to the name of your project
-3. Replace this list with the names of your group members, linking to email or github accounts (if you want)
+
 4. Remember to also add your credits, introductions/summarys to the mkdocs.yml and README.md and docs/credits.md files.
 
 ---
