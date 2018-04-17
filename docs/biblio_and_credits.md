@@ -1,5 +1,7 @@
 # Credits
-
+Lauren Leigh
+Michael Hall
+Stephen DeCasien
 ---
 
 ## Project Bibliography
