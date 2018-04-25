@@ -4,4 +4,4 @@ http and https sites, but if you're embedding this into a local web page (file p
 you should add an explicit protocol (https if you're using voyant-tools.org, otherwise
 it depends on this server.
 Feel free to change the height and width values or other styling below: -->
-<iframe style='width: 971px; height: 431px;' src='//voyant-tools.org/tool/ScatterPlot/?analysis=pca&clusters=4&corpus=b3f2239e9bd818318f2e55c5cf3a02fa'></iframe>
+<iframe style='width: 100%; height: 800px;' src='//voyant-tools.org/?view=documents&corpus=93b9c461ed9647d466e2892bb9d16794'></iframe>
