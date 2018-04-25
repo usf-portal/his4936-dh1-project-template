@@ -11,3 +11,18 @@ You should also make sure to be a cautious scholar, and to think about the limit
 As indicated by the section name, you are **not** expected to make hard conclusions that upend serious historical debates. Rather, this is a place to explore what might be learned from visual exploration.
 
 You can and should also comment on where you would go next. If these are initial findings, where do you think the best profit would be.
+
+
+### Maps of the deaths during the 1916 Easter Rising Rebellion
+#### by Stephen DeCasien
+![Places of deaths](docs\files\map1.png)
+
+*Figure 1: Location of Deaths*
+
+![Locations of deaths in Dublin](docs\files\map2.png)
+
+*Figure 2: Location of Death Only in Dublin*
+
+![Heat map of deaths](docs\files\map3.png)
+
+*Figure 3: Heat Map of Deaths in Dublin*
