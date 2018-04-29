@@ -22,3 +22,7 @@ Finally, think of future attempts to continue this line of research, whether by 
   - Originally, this project started as a compare and contrast with the effects and outcomes of the French Revolution, the Russian Revolution, and the Cuban Revolution, but we realized that this type of a project would be far too much work for the span of time given. This led to us boiling the project to exclusively the Cuban Revolution, but without a proper question. After some time for deliberation, Lauren came up with the idea of reworking the project to look at the effects and causes of the Easter Rising Rebellion, as this was a subject she knew had both digital projects already in existence and plenty of new scholarship as the Centennial was in 2016, two years prior to this project. We all agreed this would be the best plan of action as it gave as a defined position to start from and we would have someone, Lauren, who knew the topic well making the analysis portion easier to manage and correct.
 
 ### Possibilities:
+Literature Analysis
+Better data sources
+Political atmosphere
+Religious atmosphere

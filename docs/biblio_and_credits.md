@@ -1,11 +1,4 @@
 # Credits
-
-Lauren Leigh
-
-Michael Hall
-
-Stephen DeCasien
-
 ---
 
 ## Project Bibliography
@@ -17,20 +10,15 @@ Stephen DeCasien
 + 1916 - Landing. Accessed April 10, 2018. http://www.nli.ie/1916/.
 
 
-
-* List your bibliography items here, whether historical and/or digital in nature, here.
-* It should be in [Chicago Manual of Style](chicagomanualofstyle.org)
-* Remember to *italicize* and **bold** as appropriate.
-
 ---
 
 ## Project Credits
-
-* Put your group member's credits here
-* Link to any emails or github accounts (if you want)
-* Leave the credits at the bottom
-
+Authors:
++ [Lauren Leigh](laurenleigh@mail.usf.edu)
++ [Michael Hall](mhall11@mail.usf.edu) ([Github](https://github.com/mhall11))
++ [Stephen DeCasien](decasien@mail.usf.edu)
 ---
+
 
 Created as part of the course [HIS4936, Digital Humanities I: Hacking History](https://hacking-history.readthedocs.io), by [David J. Thomas](https://github.com/thePortus) at the [University of South Florida](https://www.usf.edu)
 

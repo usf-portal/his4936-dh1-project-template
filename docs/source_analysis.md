@@ -3,7 +3,17 @@ Digital Scholarship:
 
 The Easter Rising of 1916 has recently celebrated the 100th anniversary of the failed rebellions attempt to overthrow British rule. The centennial event, celebrated in Ireland, led to many colleges and institutions trying to create digital projects to commemorate the rebellion. There is a myriad of ways in which these projects represent some type of digital scholarship on the rebellion. Some institutions made simple maps and pictures concerning the events surrounding the rebellion while others, collected a massive number of primary sources that have been digitized to be accessed by the public.
 
-The Glasnevin Trust conducted a large research effort to gather every name of those who died during the 1916 Easter Rising rebellion.
+
+
+The ArcGIS website gives a tutorial section on how to create different types of maps with data from CSV files. The file provided with this particular tutorial is that of deaths during the Easter Rising Rebellion with about 216 people. The file contains: names, ages, gender, exact coordinates of their death, affiliation, religion, dates of birth and death, and even occupation. The main issue with this source is that the data skews heavily towards the Irish side of the Rebellion. The 216 people on the list provided are almost entirely listed as either civilian or as part of the Irish resistance. This must be noted because it skews how the information will be visualized and leaves many questions left unfulfilled in a truly meaningful manner. When put in conversation with the PDF list from the Glasnevin Trust, it helps understand the affiliations of nearly all who died, but by its lonesome, it is mostly only good for creating maps within the ArcGIS system. This is still the main source for most of the Tableau visualizations regardless because it is the only source found that has information such as age, religion, and career to name a few.
+
+*https://learn.arcgis.com/en/projects/tell-the-story-of-irish-public-history/lessons/map-easter-rising-fatalities.htm*
+
+
+
+The Glasnevin Trust conducted a large research effort to gather every name of those who died during the 1916 Easter Rising rebellion. This list is an on-going project that was started for the centennial of the Rebellion. The list itself comprises of 485 names and has a section on the website to add the information of a family member who you believed died during the Rebellion. The stated goal of the website is to get a comprehensive list of everyone who died (including the British soldiers and other British sympathizers). The only pieces of information given by the list are: Name, Initials, Date of Death, and Affiliation. Some of these categories are not filled out because the record does not exist. The source is not complete, just like the list from the ArcGIS website, but it has more names and listed affiliations. The PDF with the list does not give age or sex, which makes the list pretty bare bones when it comes to giving information, but the affiliations are good to know since the ArcGIS list is more heavily focused on the Irish side we can see a larger view of those who died and on which side they were on (if any).
+
+*https://www.glasnevintrust.ie/visit-glasnevin/news/1916-list/*
 
 The newspaper, The Irish Times, created a site connected to their main website concerning the Easter Rising of 1916 before the centennial celebration. The website is continuously updated and pertinent information about the rebellion is periodically added. The website provides a basic history of events and has a features section which includes: the main players, interactive maps, why 1916 matters, 1916: then and now, the proclamation, 1916 day by day and videos. Each section is an attempt to make the reader feel more intimate with the Easter Rising of 1916. The site also provides a list of articles the paper has published over its long history about the rebellion. The downfall of the site is that it does not provide where it obtained its information on the event and some of the sections are less than satisfying in the way in which they present their findings.
 
@@ -22,31 +32,3 @@ The National Library of Ireland created a digital archive in 2016 regarding the 
 ![NLI](docs\files\nli.png)
 
 *http://www.nli.ie/1916/*
-
-
----
-
-## Basic Source Information
-
-* Where is your source located (URL? Or traditional media)
-* What kind of source is it? (Diaries, records of objects, data tables, etc...)
-* Who, or what organization, is responsible for hosting the source (if online), who gathered the information?
-
----
-
-## Authorship
-
-* Is there any information available discussing the process by which the information was gathered, or how the digital project was constructed?
-* How transparent is the project about the choices they made in gathering and transforming the data for digitalization? [Click here for an example of a an excellent 'About' page from a database about Anglo-Saxons](http://www.pase.ac.uk/about/index.html)
-* Do the organizations or individuals involved in gathering and publishing your data set have any stated goals or agendas?
-* Do the organizations or individuals involved seem to have any unstated agendas or goals?
-* If a 3rd party funded the project, who are they? Do they have any particular perspective?
-
----
-
-## Data Analysis
-
-* Do the datasets involved reflect the viewpoints of particular groups or institutions, and if so, who?
-* What kinds of categorizations do you find in the data, and do they seem reasonable?
-* Do the means of data collection or categorization affect how the data is constructed in any way?
-* Does the website contain any tools for visualizing the data? Do they seem like they are making any kind of arguments?

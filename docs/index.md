@@ -10,13 +10,9 @@
 2. [Michael Hall](https://github.com/mhall11), [mhall11@mail.usf.edu](mhall11@mail.usf.edu)
 3. [Stephen DeCasien](decasien@mail.usf.edu)
 
-
-
-4. Remember to also add your credits, introductions/summarys to the mkdocs.yml and README.md and docs/credits.md files.
-
 ---
 
-Replace this, putting the introduction/summary of your project here. Leave the credits in the bottom section, however.
+This is a visualization project of the Easter Rising Rebellion of 1916. The goal of this project is enhance the understanding of the Easter Rising Rebellion through digital means to see if these means reveal a new dimension to the Rebellion. It is an on-going effort to look at the number of deaths during the Rebellion, their affiliation, age, sex, and religion to understand the origins of the Rebellion and the ramifications of those origins. In the future, we plan to look at the literature of the Gaelic Revival and that of the time shortly before the Rebellion to look at the similarities in speech and goals.
 
 ---
 

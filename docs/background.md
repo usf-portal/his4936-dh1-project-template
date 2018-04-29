@@ -17,7 +17,3 @@ As you discuss different authors, you may site them using (author, page) style p
 ---
 
 ## Digital Background
-
-You should also make sure to do research on any relevant digital work, whether scholarly articles or digital projects. Make sure to check Digital Humanities Quarterly, or [DHQ](http://www.digitalhumanities.org/dhq/), [Debates in the Digital Humanities](http://dhdebates.gc.cuny.edu/), [JStor](https://jstor.org), blogs and more to find relevant work.
-
-You don't actually have to have a sepearte 'Digital Background' section. If it feels more natural to you, you may combine them into a single discussion. This is especially a good idea if you feel that with your topic you cannot talk about historiography without also talking about digital scholarship, and vice versa.
