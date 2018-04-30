@@ -1,0 +1,3 @@
+<iframe style='width: 1366px; height: 557px;' src='//voyant-tools.org/tool/Documents/?view=scatterplot&corpus=9dcbbe9b2a9663a1e6564c0fe5fbccd3'></iframe>
+
+This illustration provides a clear overview of Clinton’s State of the Union Addresses, like the year they took place and length.

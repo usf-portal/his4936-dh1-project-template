@@ -1,0 +1,3 @@
+<iframe style='width: 1366px; height: 606px;' src='//voyant-tools.org/tool/Summary/?view=termsberry&corpus=9dcbbe9b2a9663a1e6564c0fe5fbccd3'></iframe>
+
+The summary shows terms that are unique from other addresses as well as the number of words in each speech and the average length of words per sentence. Many of Clinton’s unique terms are people’s names which highlight who were important people in his administration at the time of his 

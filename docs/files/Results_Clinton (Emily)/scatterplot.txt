@@ -1,0 +1,3 @@
+<iframe style='width: 1366px; height: 606px;' src='//voyant-tools.org/tool/ScatterPlot/?limit=58&label=terms&corpus=b841ff1836c7e0546b9032a1d2396a7e'></iframe>
+
+The Scatter Plot connects words and key phrases to show how they are related to one another. Some connections seem fairly obvious like “health” and “care” being grouped together, however, some are more enlightening such as “work” and “American.” These were topics that were being discussed at the same time or in the same across the eight different State of the Union Addresses that Clinton gave.
