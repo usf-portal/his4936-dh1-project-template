@@ -11,9 +11,8 @@ Authors:
 + [Stephen DeCasien](decasien@mail.usf.edu)
 ---
 
-## Project Template
-
-This is a starter template for final projects. When you have completed your final project, you should replace this message (README.md) with a short 1-2 paragraph description of your project.
+## Project Description 
+This is a visualization project of the Easter Rising Rebellion of 1916. The goal of this project is enhance the understanding of the Easter Rising Rebellion through digital means to see if these means reveal a new dimension to the Rebellion. It is an on-going effort to look at the number of deaths during the Rebellion, their affiliation, age, sex, and religion to understand the origins of the Rebellion and the ramifications of those origins. In the future, we plan to look at the literature of the Gaelic Revival and that of the time shortly before the Rebellion to look at the similarities in speech and goals.
 
 
 

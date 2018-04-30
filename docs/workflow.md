@@ -11,6 +11,10 @@ Discuss (in detail) the processes of
 
 To make elegant workflow charts, use [LucidChart](https://lucidchart.com)
 
+![Workflow Chart of our project](docs\files\project-easter-rising.png)
+
+*A condensed workflow for the project*
+
 Step by Step Processes:  
 This section is to show how our team used the data we found and how we went about creating the dataset, visualizations, tables, etc.
 Gathering Data: Our group had looked at into scraping websites and archives trying to collect and create datasets that could be used in an excel spreadsheet. The excel spreadsheet could then be used as our base for our research and help direct the vision of our project. Luckily, we were fortunate enough to find a premade excel spreadsheet concerning the people involved in the Easter Rising of 1916. However, this excel spreadsheet was incomplete. The CSV file was still used for the project, but it led to our group finding a PDF with a more complete list of names, but with less in-depth information about the people on the list.
