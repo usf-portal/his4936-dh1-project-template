@@ -1,17 +1,20 @@
-# HIS4936 - Hacking History
-Digital Workbook, [University of South Florida](http://www.usf.edu/), Fall 2016
+# Project Easter Rising
+Digital Workbook, [University of South Florida](http://www.usf.edu/), Spring 2018
 
 ---
 
 Instructor: [David J. Thomas](mailto::davidjthomas@usf.edu), [thePortus.com](http://thePortus.com/)
 
+Authors:
++ [Lauren Leigh](laurenleigh@mail.usf.edu)
++ [Michael Hall](mhall11@mail.usf.edu) ([Github](https://github.com/mhall11))
++ [Stephen DeCasien](decasien@mail.usf.edu)
 ---
 
-## Project Template
+## Project Description 
+This is a visualization project of the Easter Rising Rebellion of 1916. The goal of this project is enhance the understanding of the Easter Rising Rebellion through digital means to see if these means reveal a new dimension to the Rebellion. It is an on-going effort to look at the number of deaths during the Rebellion, their affiliation, age, sex, and religion to understand the origins of the Rebellion and the ramifications of those origins. In the future, we plan to look at the literature of the Gaelic Revival and that of the time shortly before the Rebellion to look at the similarities in speech and goals.
 
-This is a starter template for final projects. When you have completed your final project, you should replace this message (README.md) with a short 1-2 paragraph description of your project.
 
-See the [Course Workbook Project Page](https://hacking-history.readthedocs.io/project) for more information on the final project.
 
 **REQUIREMENTS BEFORE STARTING**
 + [GitHub account](https://github.com) created
@@ -19,13 +22,6 @@ See the [Course Workbook Project Page](https://hacking-history.readthedocs.io/pr
 + [Atom](https://atom.io) editor installed
 + [Python 3.x](https://www.python.org/) installed
 
----
-
-## Past Project Examples
-
-* [Confederate Memorials](http://confederate-memorials-project.readthedocs.io/)
-* [The Slave Ledges](http://slave-ledger.readthedocs.io/en/latest/)
-* [An Teanga Sean: The Celtic Languages](http://an-teanga-sean-the-celtic-languages.readthedocs.io/)
 
 ---
 
@@ -33,10 +29,6 @@ See the [Course Workbook Project Page](https://hacking-history.readthedocs.io/pr
 
 The list below walks you through the process of how to get and make changes to the final project. Don't just send all your changes to your group leader at the last minute. As you complete various phases of your work, send your changes back to your project manager's develop branch.
 
-1. Setting Up...
-    * The project manager will fork the [final project template repository](https://github.com/usf-portal/his4936-dh1-project-template).
-    * Each group member will fork their project manager's template
-    * Each group member will then make a sub-branch of the 'develop' branch named 'users/your-username' (without the quotes, and substituting your own username)
 2. Working on the Project
     * The project manager is the only one allowed to change the 'master' or 'develop' branches
     * As they go, each group member (even the project manager) will only make direct changes to their own 'users/your-username' branch
