@@ -27,6 +27,6 @@ https://github.com/JohnBHoltonJr97/his4936-dh1-project-template/blob/master/docs
 
 The purpose of this visualization is to show which ranks in each military branch have the highest amount of Medal of Honor recipients. In the Army, that rank is Private. In the Navy, that rank is Seaman. In he Marine Corps, that rank is Private. In the Air Force, that rank is Major. 
 
-https://github.com/JohnBHoltonJr97/his4936-dh1-project-template/blob/master/docs/word_cloud.png 
+https://github.com/JohnBHoltonJr97/his4936-dh1-project-template/blob/master/docs/WordClloud.png 
 
 This textual analysis visualization, prepared by Lucas, demosntrates some common words found in the recipient descriptions found on their profiles. 
