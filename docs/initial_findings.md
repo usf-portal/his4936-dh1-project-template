@@ -10,7 +10,7 @@ https://github.com/JohnBHoltonJr97/his4936-dh1-project-template/blob/master/docs
 
 This visualization show how much less of the Medal of Honor recipients are actually still on earth. This is not surprising because the Medal of Honor has been awarded to people for over a hundred years. So, the number of recipients of the Medal of Honor who are still on this earth is much less than the number of recipients who have passed away. 
 
-https://github.com/JohnBHoltonJr97/his4936-dh1-project-template/blob/master/docs/Non-Departed Branch.png 
+https://github.com/JohnBHoltonJr97/his4936-dh1-project-template/blob/master/docs/Non-DepartedBranch.png 
 
 
 The purpose of this visualization is to show which branches the surviving Medal of Honor recipients served in. It is interesting to see that many of the surviving recipients served in the United States Army. 
@@ -26,3 +26,7 @@ The purpose of this visualization is to show which places Medal of Honor recipie
 https://github.com/JohnBHoltonJr97/his4936-dh1-project-template/blob/master/docs/Rank.png 
 
 The purpose of this visualization is to show which ranks in each military branch have the highest amount of Medal of Honor recipients. In the Army, that rank is Private. In the Navy, that rank is Seaman. In he Marine Corps, that rank is Private. In the Air Force, that rank is Major. 
+
+https://github.com/JohnBHoltonJr97/his4936-dh1-project-template/blob/master/docs/word_cloud.png 
+
+This textual analysis visualization, prepared by Lucas, demosntrates some common words found in the recipient descriptions found on their profiles. 
