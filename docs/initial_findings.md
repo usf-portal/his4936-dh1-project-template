@@ -1,7 +1,6 @@
 # Initial Findings
 
-(docs/files/Branch.png) 
-
+https://github.com/JohnBHoltonJr97/his4936-dh1-project-template/blob/master/docs/Branch.png 
 
 What makes this visualization interesting is that it displays which branches recieved more or less Medals of Honor than others. It appears that the United States Army has received the most Medals of Honor, while the Unied States Coast Guard has only recieved one medal of Honor.
 
