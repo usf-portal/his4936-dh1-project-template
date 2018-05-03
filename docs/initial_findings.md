@@ -1,19 +1,18 @@
 # Initial Findings
 
-
-docs/files/caesarian_code.png
-
-
-docs/files/caesarian_code.png
+docs/files/Branch.png
 
 
-docs/files/caesarian_code.png
+docs/files/Departed.png
 
 
-docs/files/caesarian_code.png
+docs/files/Non-Departed Branch.png
 
 
-docs/files/caesarian_code.png
+docs/files/Non-Departed Ranks.png
 
 
-docs/files/caesarian_code.png
+docs/files/Place.png
+
+
+docs/files/Rank.png
