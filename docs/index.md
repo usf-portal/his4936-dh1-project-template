@@ -1,4 +1,4 @@
-# Replace This Title!
+# Medals of Honor
 
 ---
 
@@ -6,10 +6,8 @@
 
 *Put a caption to your image here, if you want*
 
-1. Put an intro image above (if you want)
-2. Change the 1st line of this file to the name of your project
-3. Replace this list with the names of your group members, linking to email or github accounts (if you want)
-4. Remember to also add your credits, introductions/summarys to the mkdocs.yml and README.md and docs/credits.md files.
+John Holton
+Lucas Erickson
 
 ---
 
