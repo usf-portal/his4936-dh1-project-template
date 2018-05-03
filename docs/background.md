@@ -2,7 +2,7 @@
 
 ---
 
-Put a general discussion of your topic here. Don't get into the historiography or scholarship here. Just introduce to your reader what your topic is. What is the 'problem', the 'question', and/or the 'argument'.
+The Congressional MEdal of Honor is a very important award for a member of the United States Military to receive. There have been over three thousand recipients of the Medal of Honor. With so many recipients, a number of historical questions about the recipients should be desired to be answeres. These questions can include, "Which branch of the U.S. Military contains the most recipients?", "How many recipients are still on this earth?", "Which ranks recieved the most medals?" and other questions. I think that there can be much to learn from the study of these Medal of Honor recipients and their deeds. It is the purpose of this project to answer historical questions about the recipients of the Medal of Honor based on the historical data which is there.
 
 ---
 
@@ -16,8 +16,3 @@ As you discuss different authors, you may site them using (author, page) style p
 
 ---
 
-## Digital Background
-
-You should also make sure to do research on any relevant digital work, whether scholarly articles or digital projects. Make sure to check Digital Humanities Quarterly, or [DHQ](http://www.digitalhumanities.org/dhq/), [Debates in the Digital Humanities](http://dhdebates.gc.cuny.edu/), [JStor](https://jstor.org), blogs and more to find relevant work.
-
-You don't actually have to have a sepearte 'Digital Background' section. If it feels more natural to you, you may combine them into a single discussion. This is especially a good idea if you feel that with your topic you cannot talk about historiography without also talking about digital scholarship, and vice versa.
