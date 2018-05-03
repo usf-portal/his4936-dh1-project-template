@@ -5,7 +5,7 @@ https://github.com/JohnBHoltonJr97/his4936-dh1-project-template/blob/master/docs
 
 What makes this visualization interesting is that it displays which branches recieved more or less Medals of Honor than others. It appears that the United States Army has received the most Medals of Honor, while the Unied States Coast Guard has only recieved one medal of Honor.
 
-https://github.com/JohnBHoltonJr97/his4936-dh1-project-template/blob/master/docs/Departed.png 
+https://github.com/JohnBHoltonJr97/his4936-dh1-project-template/blob/master/docs/Dpearted.png 
 
 
 This visualization show how much less of the Medal of Honor recipients are actually still on earth. This is not surprising because the Medal of Honor has been awarded to people for over a hundred years. So, the number of recipients of the Medal of Honor who are still on this earth is much less than the number of recipients who have passed away. 
