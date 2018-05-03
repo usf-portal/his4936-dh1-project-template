@@ -6,7 +6,7 @@
 ## Historical Background
 ##### By Lauren Leigh
 
-<sup></sup>
+
 
 **The Rising:**
 

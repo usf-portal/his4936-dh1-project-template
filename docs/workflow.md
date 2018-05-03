@@ -1,16 +1,5 @@
 # Workflow
 
-Describe your overall workflow here.
-
-Discuss (in detail) the processes of
-
-* Getting the data
-* Cleaning/altering the data
-* Visualizing the data
-* Discussing and sharing results with group members
-
-To make elegant workflow charts, use [LucidChart](https://lucidchart.com)
-
 ![Workflow Chart of our project](docs\files\project-easter-rising.png)
 
 *A condensed workflow for the project*
@@ -19,7 +8,9 @@ Step by Step Processes:
 This section is to show how our team used the data we found and how we went about creating the dataset, visualizations, tables, etc.
 Gathering Data: Our group had looked at into scraping websites and archives trying to collect and create datasets that could be used in an excel spreadsheet. The excel spreadsheet could then be used as our base for our research and help direct the vision of our project. Luckily, we were fortunate enough to find a premade excel spreadsheet concerning the people involved in the Easter Rising of 1916. However, this excel spreadsheet was incomplete. The CSV file was still used for the project, but it led to our group finding a PDF with a more complete list of names, but with less in-depth information about the people on the list.
 
-Around the same time that we found the ArcGIS website and the CSV they provided, we also found the Glasnevin Trust Necrology list. This is a PDF of 485 individuals who died during or around the Easter Rising. The issue with this 
+Around the same time that we found the ArcGIS website and the CSV they provided, we also found the Glasnevin Trust Necrology list. This is a PDF of 485 individuals who died during or around the Easter Rising. The issue with this source is that the PDF was encoded in such a fashion as to make it difficult to gather a TXT version to use. This is where a program called Xpdfreader and one of its executable actions helped immensely. The program was able to get a TXT file of the PDF, but it was in an nearly unusable form for making into a CSV easily. Professor Thomas generously worked on a Python script, attached below, which was able to turn the TXT file into a workable CSV, with only a few minor errors (from the PDF to TXT transfer crossing through) that we fixed in Atom.
+
+As for visualizations, it was mainly following instructions. Tableau is an easy to use and understand program for creating visualizations of statistics and was used to create the Tableau workbooks shown on the Findings page. The maps were created using the ArcGIS program, following their tutorial which coincidentally provided the CSV used for some of the Tableau visualizations.
 
 
 Code for scraping the PDF from the Glasnevin Cemetery trust website (graciously provided by Professor Thomas):
