@@ -10,7 +10,7 @@ https://github.com/JohnBHoltonJr97/his4936-dh1-project-template/blob/master/docs
 
 This visualization show how much less of the Medal of Honor recipients are actually still on earth. This is not surprising because the Medal of Honor has been awarded to people for over a hundred years. So, the number of recipients of the Medal of Honor who are still on this earth is much less than the number of recipients who have passed away. 
 
-https://github.com/JohnBHoltonJr97/his4936-dh1-project-template/blob/master/docs/Non-DepartedBranch.png 
+https://github.com/JohnBHoltonJr97/his4936-dh1-project-template/blob/master/docs/Non-Departed Branch.png 
 
 
 The purpose of this visualization is to show which branches the surviving Medal of Honor recipients served in. It is interesting to see that many of the surviving recipients served in the United States Army. 
