@@ -4,17 +4,31 @@
 
 ## Project Bibliography
 
-* List your bibliography items here, whether historical and/or digital in nature, here.
-* It should be in [Chicago Manual of Style](chicagomanualofstyle.org)
-* Remember to *italicize* and **bold** as appropriate.
+http://themedalofhonor.com/medal-of-honor-recipients 
+	
+https://history.army.mil/index.html 
+	
+http://navylive.dodlive.mil/2014/11/18/history-and-display-of-military-awards-and-ribbons/ 
+	
+https://www.army.mil/ 
+
+http://www.navy.mil/ 
+
+http://www.marines.mil/ 
+	
+https://www.airforce.com/ 
+	
+https://www.history.com/this-day-in-history/first-medal-of-honor-action 
+	
+https://www.history.com/this-day-in-history/conscientious-objector-wins-medal-of-honor 
+	
 
 ---
 
 ## Project Credits
 
-* Put your group member's credits here
-* Link to any emails or github accounts (if you want)
-* Leave the credits at the bottom
+John Holton
+Lucas Erickson
 
 ---
 
