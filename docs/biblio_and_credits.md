@@ -4,6 +4,8 @@
 
 ## Project Bibliography
 
+Full Archive. Accessed April 15, 2018. http://www.cmohs.org/recipient-archive.php. 
+
 http://themedalofhonor.com/medal-of-honor-recipients 
 	
 https://history.army.mil/index.html 
