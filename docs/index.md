@@ -2,7 +2,7 @@
 
 ---
 
-![Replace Me, Sample Image](docs/files/caesarian_code.png)
+![Replace Me, Sample Image](files/caesarian_code.png)
 
 *Put a caption to your image here, if you want*
 
