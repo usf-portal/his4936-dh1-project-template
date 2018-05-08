@@ -1,4 +1,4 @@
-# Replace This Title!
+# Medals of Honor
 
 ---
 
@@ -6,14 +6,12 @@
 
 *Put a caption to your image here, if you want*
 
-1. Put an intro image above (if you want)
-2. Change the 1st line of this file to the name of your project
-3. Replace this list with the names of your group members, linking to email or github accounts (if you want)
-4. Remember to also add your credits, introductions/summarys to the mkdocs.yml and README.md and docs/credits.md files.
+John Holton
+Lucas Erickson
 
 ---
 
-Replace this, putting the introduction/summary of your project here. Leave the credits in the bottom section, however.
+The Congressional Medal of Honor is a very important award for a member of the United States Military to receive. There have been over three thousand recipients of the Medal of Honor. With so many recipients, a number of historical questions about the recipients should be desired to be answeres. These questions can include, "Which branch of the U.S. Military contains the most recipients?", "How many recipients are still on this earth?", "Which ranks recieved the most medals?" and other questions. I think that there can be much to learn from the study of these Medal of Honor recipients and their deeds. It is the purpose of this project to answer historical questions about the recipients of the Medal of Honor based on the historical data which is there.
 
 ---
 

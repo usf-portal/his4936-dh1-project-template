@@ -1,13 +1,32 @@
 # Initial Findings
 
-This is where you where you discuss any (initial) conclusions you have come to. This is also a natural place to put any and all visualizations that you come up with.
+https://github.com/JohnBHoltonJr97/his4936-dh1-project-template/blob/master/docs/Branch.png 
 
-Whether you turn your visualizations into static pictures and put them here or embed them, you MUST discuss your visualizations adequately. That means that whoever is the visualization expert must explain what they think the visualization means.
 
-You should explain anything that is not self-apparent from the picture alone. Moreover, you should at least comment on whether you think you can draw broader conclusions from any of the visualizations, either when considered individually or all together.
+What makes this visualization interesting is that it displays which branches recieved more or less Medals of Honor than others. It appears that the United States Army has received the most Medals of Honor, while the Unied States Coast Guard has only recieved one medal of Honor.
 
-You should also make sure to be a cautious scholar, and to think about the limitations of what the visualizations can actually tell you.
+https://github.com/JohnBHoltonJr97/his4936-dh1-project-template/blob/master/docs/Dpearted.png 
 
-As indicated by the section name, you are **not** expected to make hard conclusions that upend serious historical debates. Rather, this is a place to explore what might be learned from visual exploration.
 
-You can and should also comment on where you would go next. If these are initial findings, where do you think the best profit would be.
+This visualization show how much less of the Medal of Honor recipients are actually still on earth. This is not surprising because the Medal of Honor has been awarded to people for over a hundred years. So, the number of recipients of the Medal of Honor who are still on this earth is much less than the number of recipients who have passed away. 
+
+https://github.com/JohnBHoltonJr97/his4936-dh1-project-template/blob/master/docs/Non-DepartedBranch.png 
+
+
+The purpose of this visualization is to show which branches the surviving Medal of Honor recipients served in. It is interesting to see that many of the surviving recipients served in the United States Army. 
+
+https://github.com/JohnBHoltonJr97/his4936-dh1-project-template/blob/master/docs/Non-DepartedRanks.png 
+
+The purpose of this visualization is to show which Ranks the surviving Medal of Honor recipients were at the time of doing the deed which they were awarded for. It is interesting to see that the rank with the most amount of recipients is Specialist Fourth Class in the United States Army.
+
+https://github.com/JohnBHoltonJr97/his4936-dh1-project-template/blob/master/docs/Place.png 
+
+The purpose of this visualization is to show which places Medal of Honor recipients peformed the deeds which gave them the medal in the first place. It is interesting to see that the most Medal of Honor recipients were at Vicksburg, Mississippi. There was a Civil War battle at Vicksburg
+
+https://github.com/JohnBHoltonJr97/his4936-dh1-project-template/blob/master/docs/Rank.png 
+
+The purpose of this visualization is to show which ranks in each military branch have the highest amount of Medal of Honor recipients. In the Army, that rank is Private. In the Navy, that rank is Seaman. In he Marine Corps, that rank is Private. In the Air Force, that rank is Major. 
+
+https://github.com/JohnBHoltonJr97/his4936-dh1-project-template/blob/master/docs/WordCloud.png 
+
+This textual analysis visualization, prepared by Lucas, demosntrates some common words found in the recipient descriptions found on their profiles. 

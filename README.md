@@ -9,7 +9,7 @@ Instructor: [David J. Thomas](mailto::davidjthomas@usf.edu), [thePortus.com](htt
 
 ## Project Template
 
-This is a starter template for final projects. When you have completed your final project, you should replace this message (README.md) with a short 1-2 paragraph description of your project.
+The purpose of this project, known as the Medals of Honor project, is to analyze historical data relating to Medal of Honor recipients and to answer historical questions based on that data. Questions such as, "Which ranks of which military branches received the most Medals of Honor?", Which branches of the United States Military have received the least and most amount of medals?", and "How many Medal of Honor recipients are still on earth today?" will be answered. The data about te Medal of Honor recipients was scraped from the website of the Congressional Medal of Honor Society. Each recipient has their own webpage profile which contains information about their place and date of birth, military branch, rank, and more. 
 
 See the [Course Workbook Project Page](https://hacking-history.readthedocs.io/project) for more information on the final project.
 

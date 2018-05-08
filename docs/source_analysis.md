@@ -1,33 +1,29 @@
 # Source Analysis
 
-Delete this introductory material when submitting your assignment.
-
-This source analysis should discuss whatever source(s) you used for this project.
 
 See the [README.md](README.md) file for information on how to submit this assignment.
 ---
 
 ## Basic Source Information
 
-* Where is your source located (URL? Or traditional media)
-* What kind of source is it? (Diaries, records of objects, data tables, etc...)
-* Who, or what organization, is responsible for hosting the source (if online), who gathered the information?
+* http://www.cmohs.org/double-recipients.php
+
+* This is a database of the recipients of the Medal of Honor. Each recipient has their own profile which contains information about their military service. 
+
+* The Congressional Medal of Honor Society is the organization which seems to host the website. 
 
 ---
 
 ## Authorship
 
-* Is there any information available discussing the process by which the information was gathered, or how the digital project was constructed?
-* How transparent is the project about the choices they made in gathering and transforming the data for digitalization? [Click here for an example of a an excellent 'About' page from a database about Anglo-Saxons](http://www.pase.ac.uk/about/index.html)
-* Do the organizations or individuals involved in gathering and publishing your data set have any stated goals or agendas?
-* Do the organizations or individuals involved seem to have any unstated agendas or goals?
-* If a 3rd party funded the project, who are they? Do they have any particular perspective?
+It appears that the stated purpose of the website is to educate people about the different people who recieved the Medal of Honor. Also, the website appears to serve as a memorial to all who have recieved the Medal of Honor.
 
 ---
 
 ## Data Analysis
 
-* Do the datasets involved reflect the viewpoints of particular groups or institutions, and if so, who?
-* What kinds of categorizations do you find in the data, and do they seem reasonable?
-* Do the means of data collection or categorization affect how the data is constructed in any way?
-* Does the website contain any tools for visualizing the data? Do they seem like they are making any kind of arguments?
+The data which appears in each recipient's profile appears to be divided into cateogries such as military branch, date of birth, rank, and other information. This information is relevant to understanding what the recipent did while serving in the United States Military. 
+
+The data appears to be constructed in an organized fashion, since it is divided in the ways stated before.
+
+The website does not use much of any tools with which to visualize the data. There do not appear to be any specific arguments being made. The website appears to serve as simply a memorial to those who have recieved the Medal fo Honor.
