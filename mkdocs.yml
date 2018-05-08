@@ -8,7 +8,7 @@ pages:
 - Home: 'index.md'
 - Background: 'background.md'
 - Source Analysis: 'source_analysis.md'
-- Workflow: 'word_flow.md'
+- Workflow: 'workflow.md'
 - Initial Findings: 'initial_findings.md'
 - Problems and Possibilities: 'problems_and_possibilities.md'
 - Bibliography and Credits: 'biblio_and_credits.md'
