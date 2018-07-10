@@ -4,9 +4,13 @@
 
 <figure>
 
-![Replace Me, Sample Image](docs/imgs/caesarian_code.png)
+![Replace Me, Sample Image](imgs/caesarian_code.png)
 
-<figcaption>*Put a caption to your image here, if you want*</figcaption>
+<figcaption>
+
+*Put a caption to your image here, if you want*
+
+</figcaption>
 
 </figure>
 
