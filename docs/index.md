@@ -2,9 +2,13 @@
 
 ---
 
-![Replace Me, Sample Image](docs/files/caesarian_code.png)
+<figure>
 
-*Put a caption to your image here, if you want*
+![Replace Me, Sample Image](docs/imgs/caesarian_code.png)
+
+<figcaption>*Put a caption to your image here, if you want*</figcaption>
+
+</figure>
 
 1. Put an intro image above (if you want)
 2. Change the 1st line of this file to the name of your project
