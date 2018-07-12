@@ -16,7 +16,7 @@
 * Put your group member's credits here
 * Link to any emails or github accounts (if you want)
 * Leave the credits at the bottom
-* [Corey Dewey](mailto:coreydewey@mail.usf.edu)
+* [Corey Dewey](mailto:coreydewey@mail.usf.edu), Group Leader
 * Laura Monge
 
 ---
