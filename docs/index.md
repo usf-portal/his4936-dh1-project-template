@@ -4,7 +4,7 @@
 
 <figure>
 
-![Replace Me, Sample Image](imgs/caesarian_code.png)
+![](imgs/ancient_med.jpg)
 
 <figcaption>
 
