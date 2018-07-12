@@ -15,7 +15,7 @@
 * Put your group member's credits here
 * Link to any emails or github accounts (if you want)
 * Leave the credits at the bottom
-* [Kelly Teel](kellyteel@mail.usf.edu)
+* [Kelly Teel](mailto:kellyteel@mail.usf.edu)
 
 ---
 
