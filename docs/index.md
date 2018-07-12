@@ -1,4 +1,4 @@
-# Ancient trade in the Mediterranean
+# Trade in the Ancient Mediterranean
 
 ---
 
