@@ -9,7 +9,7 @@ Instructor: [David J. Thomas](mailto::davidjthomas@usf.edu), [thePortus.com](htt
 
 <figure>
 
-![](imgs/956px-Flag_of_Tampa,_Florida.svg.png)
+![](docs/imgs/956px-Flag_of_Tampa,_Florida.svg.png)
 
 <figcaption>*Put a caption to your image here, if you want*</figcaption>
 
