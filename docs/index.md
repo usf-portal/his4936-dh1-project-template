@@ -1,14 +1,15 @@
-# Replace This Title!
+# Tampa Census
 
 ---
 
 <figure>
 
-![Replace Me, Sample Image](imgs/caesarian_code.png)
+![](imgs/956px-Flag_of_Tampa,_Florida.svg.png)
+
 
 <figcaption>
 
-*Put a caption to your image here, if you want*
+*The Horrifically Beautiful Tampa Flag*
 
 </figcaption>
 
