@@ -4,7 +4,7 @@
 
 <figure>
 
-![Flag](imgs/956px-Flag_of_Tampa,_Florida.svg.png)
+![Flag](imgs/956px-Flag_of_Tampa,_Florida.png)
 
 
 <figcaption>
