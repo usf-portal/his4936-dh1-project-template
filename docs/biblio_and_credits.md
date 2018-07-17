@@ -17,7 +17,9 @@
 * Link to any emails or github accounts (if you want)
 * Leave the credits at the bottom
 * [Corey Dewey](mailto:coreydewey@mail.usf.edu), Group Leader
-* Laura Monge
+	* [Github](www.Github.com/N7dewey)
+* [Laura Monge](mailto:lawdamonge@yahoo.com), Creative Design
+	* [GitHub](www.Github.com/laura-monge)
 
 ---
 
