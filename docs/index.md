@@ -2,7 +2,8 @@
 
 ---
 
-![Replace Me, Sample Image](files/caesarian_code.png)
+![DEATH TOLL CASUALTIES](https://i0.kym-cdn.com/entries/icons/original/000/008/940/world-war-2.png
+)
 
 *Put a caption to your image here, if you want*
 
