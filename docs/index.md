@@ -4,7 +4,7 @@
 
 <figure>
 
-![alt text](imgs/ancient_med.jpg)
+![alt text](imgs/ancient_med.png)
 
 <figcaption>
 
