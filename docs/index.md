@@ -2,17 +2,14 @@
 
 ---
 
-<figure>
 
-![Replace Me, Sample Image](imgs/caesarian_code.png)
 
-<figcaption>
+![Mexican Flag](imgs/F100009467.jpg)
+
 
 *Put a caption to your image here, if you want*
 
-</figcaption>
 
-</figure>
 
 1. Put an intro image above (if you want)
 2. Change the 1st line of this file to the name of your project
