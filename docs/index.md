@@ -1,12 +1,9 @@
 # Trade in the Ancient Mediterranean
 
 ---
-
-<figure>
-
 ![alt text](imgs/ancient_med.png)
 
-<figcaption>
+
 
 *Put a caption to your image here, if you want*
 
