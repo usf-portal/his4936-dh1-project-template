@@ -7,13 +7,13 @@ Instructor: [David J. Thomas](mailto::davidjthomas@usf.edu), [thePortus.com](htt
 
 ---
 
-<figure>
+
 
 ![Replace Me, Sample Image](docs/imgs/caesarian_code.png)
 
 <figcaption>*Put a caption to your image here, if you want*</figcaption>
 
-</figure>
+
 
 ---
 
