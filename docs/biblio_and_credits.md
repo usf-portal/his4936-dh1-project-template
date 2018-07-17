@@ -8,6 +8,8 @@
 
 * **“Tampa, FL | Data USA.” Accessed July 11, 2018. https://datausa.io/profile/geo/tampa-fl/.**
 
+---
+
 **Sourcing for Data Support**
 
 * **“Adam Putnam Right about Need for More Nurses in Florida.” @politifact. Accessed July 11, 2018. http://www.politifact.com/florida/statements/2017/nov/08/adam-putnam/adam-putnam-right-about-need-more-nurses-state/.**
@@ -30,6 +32,8 @@
 	
 * **“Tampa Adds More than 30,000 Jobs over Past Year.” Accessed July 11, 2018. http://www.baynews9.com/fl/tampa/news/2018/06/15/tampa-adds-more-than-thirty-thousand-jobs-over-the-year.**
 	`More current sourcing on job creation trends. `
+	
+	---
 	
 **Sourcing for data processing**
 
