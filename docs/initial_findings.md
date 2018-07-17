@@ -1,4 +1,4 @@
-# Initial Findings
+# Initial Findings CATHERINE THIS IS YOUR SECTION TO DO ALL 
 
 This is where you where you discuss any (initial) conclusions you have come to. This is also a natural place to put any and all visualizations that you come up with. In fact, this is where you tell the reader what it is you discovered. You can use the first person if that helps you discuss the process. This is where you both describe to the reader what they are looking at (if they are looking at a visualization) and, most importantly, what your interpretation of the results is.
 
