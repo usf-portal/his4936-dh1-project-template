@@ -15,8 +15,8 @@
 
 </figure>
 
-1. * [Nick Nail](mailto:nnail@mail.usf.edu)
-2. * [Christopher Volk](mailto:cvolk@mail.usf.edu)
+1. [Nick Nail](mailto:nnail@mail.usf.edu)
+2. [Christopher Volk](mailto:cvolk@mail.usf.edu)
 
 
 ---
