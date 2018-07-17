@@ -2,18 +2,12 @@
 
 ---
 
-<figure>
 
 ![](imgs/956px-Flag_of_Tampa,_Florida.png)
 
-
-<figcaption>
-
 *The Horrifically Beautiful Tampa Flag*
 
-</figcaption>
 
-</figure>
 
 1. [Nick Nail](mailto:nnail@mail.usf.edu)
 2. [Christopher Volk](mailto:cvolk@mail.usf.edu)
