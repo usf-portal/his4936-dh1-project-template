@@ -1,12 +1,10 @@
-# WWII Casualties By State
-=======
+# U.S. WWII Casualties By State
+
 
 ---
 
 
-![DEATH TOLL CASUALTIES](https://i0.kym-cdn.com/entries/icons/original/000/008/940/world-war-2.png
-
-)
+![DEATH TOLL CASUALTIES](https://i0.kym-cdn.com/entries/icons/original/000/008/940/world-war-2.png)
 
 *Images from WWII*
 
