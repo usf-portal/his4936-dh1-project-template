@@ -3,19 +3,17 @@
 
 ---
 
+
 ![DEATH TOLL CASUALTIES](https://i0.kym-cdn.com/entries/icons/original/000/008/940/world-war-2.png
+
 )
 
-*Put a caption to your image here, if you want*
+*Images from WWII*
 
-1. Put an intro image above (if you want)
-2. Change the 1st line of this file to the name of your project
-3. Replace this list with the names of your group members, linking to email or github accounts (if you want)
-4. Remember to also add your credits, introductions/summarys to the mkdocs.yml and README.md and docs/credits.md files.
+1. Steven Somohano
+2. Tony Cifuentes
 
----
-
-Replace this, putting the introduction/summary of your project here. Leave the credits in the bottom section, however.
+---This will be where our into is
 
 ---
 
