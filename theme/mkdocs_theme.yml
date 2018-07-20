@@ -2,4 +2,4 @@
 
 extends: mkdocs
 
-hljs_style: slate
+hljs_style: darcula
