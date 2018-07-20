@@ -10,7 +10,7 @@
 2. Tony Cifuentes
 
 ---
-
+This is our intro paragraph
 
 ---
 
