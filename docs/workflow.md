@@ -1,6 +1,11 @@
 # Workflow
 
 Describe your overall workflow here.
+David Thomas provided us with txt files of oral history transcripts from ACT UP's online oral history repository. From those txt files we were able to upload them into Orange Three and Voyant. The data derived was successfully uploaded into Tableau and was analyzed using a sentiment analysis tool. Below we will discuss the various approaches we used to derive data and meaning from the original txt files. 
+
+Upon receipt of the txt files, Catherine attempted to upload them into Tableau. The mission was a failure. After conversations with Kelly, Catherine realized that she could not upload txt files into Tableau, and that data had to be produced through Orange Three first, and a csv file would need to be downladed. 
+
+After uploading the txt files into Orange Three, Catherine began trying various methods of analysis. Most of them were a downright failure, especially the word cloud that was generated, absolutely no inherent meaning could be derived from the visual Orange Three produced. PUT THE PHOTO OF THE WORD CLOUD UNDER THIS PARAGRAPH PLEASE
 
 Discuss (in detail) the processes of
 
