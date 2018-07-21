@@ -15,7 +15,7 @@
 
 ---
 
-Replace this, putting the introduction/summary of your project here. Leave the credits in the bottom section, however.
+Utilizing the Tampa, Florida census data, we will analysis education, employment, and industry records to find correlations between education needs and industry deficits. As the cost of education increases we hypothesis a much larger gap growing between the educated work force and the uneducated workforce. We believe this will cause large deficits in education required fields. From data currently analyzed we can see this effect in the nursing profession presenting already. Though the numbers of nursing graduates has increase due to the stressed need in this occupation the number of needed employees has continued to increase as well. 
 
 ---
 
