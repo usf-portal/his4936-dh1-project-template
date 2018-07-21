@@ -5,7 +5,10 @@ David Thomas provided us with txt files of oral history transcripts from ACT UP'
 
 Upon receipt of the txt files, Catherine attempted to upload them into Tableau. The mission was a failure. After conversations with Kelly, Catherine realized that she could not upload txt files into Tableau, and that data had to be produced through Orange Three first, and a csv file would need to be downladed. 
 
-After uploading the txt files into Orange Three, Catherine began trying various methods of analysis. Most of them were a downright failure, especially the word cloud that was generated, absolutely no inherent meaning could be derived from the visual Orange Three produced. PUT THE PHOTO OF THE WORD CLOUD UNDER THIS PARAGRAPH PLEASE
+After uploading the txt files into Orange Three, Catherine began trying various methods of analysis. Most of them were a downright failure, especially the word cloud that was generated, absolutely no inherent meaning could be derived from the visual Orange Three produced.Catherine imagined that AIDS, ACT, UP, or activism would be the most commonly used words in the word cloud. However that was incorrect, from viewing this visualization, the viewer has absolutely no idea ot context as to what ACT UP's oral histories discuss.   PUT THE PHOTO OF THE WORD CLOUD UNDER THIS PARAGRAPH PLEASE
+
+Catherine decided that she wanted to see how often certain words appeared within the entire collection of oral histories, using Orange Three's concordance tool, she was actually successful at generating meaningful concordances. However, she was unable to produce a visualization from said concordances. PLEASE PUT THE PHOTOS OF THE SILENCE = DEATH CONCORDANCES BENEATH THIS PARAGRAPH
+As you can see in the photo above, the Silence = Death campaign was mentioned in 77/186 interviews. The word "silence" was not the only word that Catherine attempted to use to find concordances, she also used the word "AIDS". AIDS proved to be a far more common word than silence, having appeared in every single one of the 1w86 interviews. 
 
 Discuss (in detail) the processes of
 
