@@ -1,7 +1,7 @@
 # Problems and Possibilities
 
 
-We started our project wanting to find some information on general Tampa history. Tampa history is rooted in immigration, cigars and the appeal of coastal-sunshine living. While researching different databases and Tampa history websites, the most available data was housing records and some police reports. Still looking for something more interesting, I came across datausa.io, the website for visualizing census data. The best part of this website was how well done the visualizations were for different demographics. 
+We started our project wanting to find some information on general Tampa history. City of Tampa history is rooted in immigration, cigars and the appeal of coastal-sunshine living. While researching different databases and Tampa history websites, the most available data was housing records and some police reports. Still looking for something more interesting, I came across datausa.io, the website for visualizing census data. The best part of this website was how well done the visualizations were for different demographics. 
 
 The data on this website, however, only dated as far back as 2013. This was not quite the story of Tampa history we were originally seeking for. While reporting on drug cartels and pirate influence could have been more "exciting", the data we came across for education and economy in recent years has relevant importance. By taking this data, one could help shape the needs of our economy and support those undecided students on areas of needed study. 
 
