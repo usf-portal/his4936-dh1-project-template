@@ -2,24 +2,26 @@
 
 ---
 
-Put a general discussion of your topic here. Don't get into the historiography or scholarship here. Just introduce to your reader what your topic is. What is the 'problem', the 'question', and/or the 'argument'.
+Our research topic is trade in the ancient Mediterranean. The dataset we will be using shows, for most ships at least, where the ships origin and the ships destination as well as the ships cargo. This valuable information can help us explore many questions about trade in the ancient world. 
 
-YOU SHOULD BE LIBERAL AND INCLUDE ANY AND ALL LINKS WHEN RELEVANT
+The questions we aim to answer with or data visualization project are as follows:
+* Who was the central hub of trade in the ancient Mediterranean.
+* What goods/services were the most commonly traded.
+* With visualization of the wrecks, can we find the trade routes used?
+
+The database covers all ancient shipwrecks known currently up to 1500 AD. The database contains a little over 600 entries with a vast variety of different cultures represented. The database focuses on 3 main categories of cargo.
+* Amphoras, Marble and Sarcophagus. 
 
 ---
 
 ## Historical Background
-Hi
-Put a discussion of any relevant historigraphy you think relates to the topic.You can discuss the historiography of specific times and places, but you can also discuss any theoretical literature you think is relevant.
 
-You have freedom to roam from the narrow topic of your project to explore how different authors/schools of thought have impacted scholarly approaches over time. However, make sure that in the end you clearly relate how this discussion relates to the subject of your project and/or your choices in methods or interpreative models.
-
-As you discuss different authors, you may site them using (author, page) style parenthetical notation. Make sure that a full citation in [Chicago](http://chicagomanualofstyle.org) is added to the 'docs/credits.md' page.
+The ancient shipwrecks of the Mediterranean date all the way back to the Classical period in the years 400-500 BC. Ships from the Roman Empire, Byzantine Empire, and Ottoman Empire were found in recent years. The Black Sea is a particularly good location where historians have found numerous shipwrecks. The reason why is because there is an anoxic layer in the sea that allows the ships to stay preserved. The Aegean sea is another popular hotspot where ships have been found. Twenty-two Greek vessels were found Fourni archipelago in the eastern Aegean Sea, they date between 700 and 480 B.C. Archaeologists are able to date the ships by studying the shapes and sizes of the clay jars they carried. One social aspect that historians have discovered about maritime disasters is that women have a much higher survival rate, which can be due to the fact that women are given priority in survival equipment. Overall, there are an estimated 3 million shipwrecks across the worlds ocean. However, there may be many more discoveries to come!
 
 ---
 
 ## Digital Background
 
-You should also make sure to do research on any relevant digital work, whether scholarly articles or digital projects. Make sure to check Digital Humanities Quarterly, or [DHQ](http://www.digitalhumanities.org/dhq/), [Debates in the Digital Humanities](http://dhdebates.gc.cuny.edu/), [JStor](https://jstor.org), blogs and more to find relevant work.
-
-You don't actually have to have a sepearte 'Digital Background' section. If it feels more natural to you, you may combine them into a single discussion. This is especially a good idea if you feel that with your topic you cannot talk about historiography without also talking about digital scholarship, and vice versa.
+The Oxford Roman Economy has a brilliant digital project and visualizations for every database they have collected. They have interactive LIVE maps that are updated whenver the database is updated. Although that type of project is far beyond our data visualization skills it was interesting to create our own project with a different mindset and different types of visualizations. 
+* Below is a link to the Oxford Roman Economy's visualization
+	* [Oxford Roman Economy](https://livedataoxford.shinyapps.io/OxRep_maps_shipwrecks/)
