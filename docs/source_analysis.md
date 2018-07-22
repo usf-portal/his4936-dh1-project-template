@@ -4,7 +4,7 @@
 
 ## Basic Source Information
 
-* [www.datausa.io](https://datausa.io/)
+* [www.datausa.io](https://datausa.io/profile/geo/tampa-fl/#)
 * Website built to visualize census data for specific cities and regions.
 * Deloitte, Datawheel, and Cesar Hidalgo, Professor at the MIT Media Lab and Director of Collective Learning
 	* Team of researchers, educators, economists and business executives attempting to make government data more readable and
@@ -14,7 +14,7 @@
 
 ## Authorship
 
-* "About" section: https://datausa.io/about/
+* "About" section: [datausa.io/about/](https://datausa.io/about/)
 * Their mission is “to understand and visualize the critical issues facing the United States in areas like jobs, skills and
   education across industry and geography.” 
 * It does not seem that there is any hidden agenda, however, this team wants to help show areas that need improvement in
