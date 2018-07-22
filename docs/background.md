@@ -2,7 +2,9 @@
 
 ---
 
-According to government data, we are currently experiencing some of the lowest unemployment rates in recent decades. This is very positive news for the American people, however, this arbitrary number might not tell a complete story. The nation is experiencing a phenomenon where millions of work-eligible men have simply left the workforce. [npr.org](https://www.npr.org/2016/09/06/492849471/an-economic-mystery-why-are-men-leaving-the-workforce) By not actively searching for a job, they are no longer considered in the "unemployment" calculations. There is a shortage in many occupations that require formal education as we explain in the example of Nursing and Healthcare. This discussion is meant to expand on the disparity between skilled and unskilled jobs, education requirements and economics needs specific to the Tampa Bay Area.
+According to government data, we are currently experiencing some of the lowest unemployment rates in recent decades. This is very positive news for the American people, however, this arbitrary number might not tell a complete story. The nation is experiencing a phenomenon where millions of work-eligible men have simply left the workforce. [npr.org](https://www.npr.org/2016/09/06/492849471/an-economic-mystery-why-are-men-leaving-the-workforce) By not actively searching for a job, they are no longer considered in the "unemployment" calculations. 
+
+There is a shortage in many occupations that require formal education as we explain in the example of Nursing and Healthcare. This discussion is meant to expand on the disparity between skilled and unskilled jobs, education requirements and economics needs specific to the Tampa Bay Area.
 
 ---
 
