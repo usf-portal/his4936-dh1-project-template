@@ -1,6 +1,6 @@
 # Initial Findings  
 
-David Thomas provided our group with txt files that he obtained from a scraping he accoplished in 2017. Upon receipt of the txt files, Catherine attempted to upload them into Tableau. The mission was a failure. After conversations with Kelly, Catherine realized that she could not upload txt files into Tableau, and that data had to be produced through Orange Three first, and a csv file would need to be downladed. 
+David Thomas provided our group with txt files that he obtained from a scraping he accoplished in 2017. Upon receipt of the txt files, Catherine attempted to upload them into [Tableau](https://tableau.com). The mission was a failure. After conversations with Kelly, Catherine realized that she could not upload txt files into Tableau, and that data had to be produced through [Orange Three](https://orange.biolab.si) first, and a csv file would need to be downladed. 
 
  After uploading the txt files into Orange Three, Catherine began trying various methods of analysis. Most of them were a downright failure, especially the word cloud that was generated, absolutely no inherent meaning could be derived from the visual Orange Three produced.Catherine imagined that AIDS, ACT, UP, or activism would be the most commonly used words in the word cloud. However that was incorrect, from viewing this visualization, the viewer has absolutely no idea ot context as to what ACT UP's oral histories discuss.   
  
@@ -36,6 +36,9 @@ The visualization above is of packed bubbles, this was also created inside of Ta
 ![image](imgs/9.png)
 
 As you can see in the photo above, when we click on the name Charles the exact ratings are viewable, which were: Negative 0.02800 and Positive 0.1550. But, even without clicking on the name Charles, we knew based on the size and color what kind of ratings the Charles interview had.On the other end of the spectrum, looking at the entire pack of bubbles, one could figure out that the Deagle interview towards the top right appears in a light mustard hue suggesting a moderate positivity rating and the large size suggests a high negativity rating, which is exactly how the Deagle interview rates. As far as the choice of colors for the packed bubbles, they were chosen to show contrast and to be viewable to people with color blindness.      
+
+
+
 
 ## What does all this mean?
 
