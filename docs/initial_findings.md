@@ -2,28 +2,39 @@
 
 David Thomas provided our group with txt files that he obtained from a scraping he accoplished in 2017. Upon receipt of the txt files, Catherine attempted to upload them into Tableau. The mission was a failure. After conversations with Kelly, Catherine realized that she could not upload txt files into Tableau, and that data had to be produced through Orange Three first, and a csv file would need to be downladed. 
 
- After uploading the txt files into Orange Three, Catherine began trying various methods of analysis. Most of them were a downright failure, especially the word cloud that was generated, absolutely no inherent meaning could be derived from the visual Orange Three produced.Catherine imagined that AIDS, ACT, UP, or activism would be the most commonly used words in the word cloud. However that was incorrect, from viewing this visualization, the viewer has absolutely no idea ot context as to what ACT UP's oral histories discuss.   PUT THE PHOTO OF THE WORD CLOUD UNDER THIS PARAGRAPH PLEASE
+ After uploading the txt files into Orange Three, Catherine began trying various methods of analysis. Most of them were a downright failure, especially the word cloud that was generated, absolutely no inherent meaning could be derived from the visual Orange Three produced.Catherine imagined that AIDS, ACT, UP, or activism would be the most commonly used words in the word cloud. However that was incorrect, from viewing this visualization, the viewer has absolutely no idea ot context as to what ACT UP's oral histories discuss.   
  
- 
- ![image](imgs/WORD CLOUD ORANGE THREE.png)
+ ![image](imgs/1.png)
 
+Catherine decided that she wanted to see how often certain words appeared within the entire collection of oral histories, using Orange Three's concordance tool, she was actually successful at generating meaningful concordances. However, she was unable to produce a visualization from said concordances. 
 
-Catherine decided that she wanted to see how often certain words appeared within the entire collection of oral histories, using Orange Three's concordance tool, she was actually successful at generating meaningful concordances. However, she was unable to produce a visualization from said concordances. PLEASE PUT THE PHOTOS OF THE SILENCE = DEATH CONCORDANCES BENEATH THIS PARAGRAPH
+![image](imgs/2.png)
+
+![image](imgs/3.png)
 
 As you can see in the photo above, the Silence = Death campaign was mentioned in 77/186 interviews. The word "silence" was not the only word that Catherine attempted to use to find concordances, she also used the word "AIDS". AIDS proved to be a far more common word than silence, having appeared in every single one of the 186 interviews,it was uttered 7042 times to be exact. From the list of concordaances, one may discern how AIDS was used and words that often came before and after AIDS. 
 
 With the assistance of David Thomas, Catherine was able to successfully save data from Orange Three. The file that Orage Three generated was a csv file. Thomas then aided us in opening the csv file. Initially the file would not open in Tableau. We then opened the file using Excel and we re-saved the file as a csv a second time. Once the file was re-saved in Excel, we attempted to upload it into Tableau, and finally we were able to successfully use Tableau to create a visualization! That was quite a relief. 
-We were able to use a sentiment analysis tool in Tableau and produce a horizontal bar graph that depicts the negativity and positivity score of each interview. PLEASE PLACE THE PHOTOS OF THE BAR GRAPH FROM TABLEAU HERE
+We were able to use a sentiment analysis tool in Tableau and produce a horizontal bar graph that depicts the negativity and positivity score of each interview. 
+
+![image](imgs/4.png)
+
+![image](imgs/5.png)
+
+![image](imgs/6.png)
 
 In the graphs above you can see that each interview has a unique negativity and positivity rating. For example, you can see that the Katz interview is has a far highter positivity than negativity rating. And, Lyons' interview appears to be far more negative than the other interviews in the photo. Additionally in the other photo, you can see that Dorman's negativity rating is very close to the positivity rating, Neg:0.7100 and Pos: .0790. Dorman, like Lyons' interview has the highest negativity ratings within the grouping in the photo, but Lyons'positivity rating, coming in at 0.1110 is much lower than Dorman's.
 
-PLACE THE PHOTO OF THE TEXT TABLE HERE PLEASE
+![image](imgs/7.png)
+
 The text table above is another example of how a negative and positive rating can be visualized with Tableau. Using the exact same data set as before, Catherine created a text table. The table is definately a more strait forward presentation of the data, having the exact rating displayed next to each name. I believe the table could be used in a fashion that orders by rating rather than alphabetically. We weren't familiar enough with Tableau to do this, however if it was doable we believe it would demonstrate the most positive and the most negative interviews. 
 
-PLACE PHOTO OF PACKED BUBBLES HERE PLEASE
+![image](imgs/8.png)
+
 The visualization above is of packed bubbles, this was also created inside of Tableau. The higher the negativity rating the larger the bubble, and the higher the positivity rating the deeper the tone of purple the higher the positivity rating. The deeper the yellow hue the lower the positivity rating is. The names are also listed, so once you are aware of the way the data is being presented, differences in size and color which indicate differences in the data become evident. Take for example, the name Charles appears towards the bottom and has the deepest hue of purple of all the bubbles, it also appears relatively small. Without clocking on the name charles, I already know that it has a high positivity rating due to the color and a low negativity rating due to size. 
 
-PLEASE PLACE THE PHOTO OF THE SINGULAR COLORED IN BUBBLE THAT SAYS CHARLES HERE
+![image](imgs/9.png)
+
 As you can see in the photo above, when we click on the name Charles the exact ratings are viewable, which were: Negative 0.02800 and Positive 0.1550. But, even without clicking on the name Charles, we knew based on the size and color what kind of ratings the Charles interview had.On the other end of the spectrum, looking at the entire pack of bubbles, one could figure out that the Deagle interview towards the top right appears in a lights mustard hue suggesting a moderate positivity rating and the large size suggests a high negativity rating, which is exactly how the Deagle interview rates. As far as the choice of colors for the packed bubbles, they were chosen to show contrast and to be viewable to people with color blindness.      
 
 One could ask what does this mean? From these visualizations, we believe than one could potentially discern how the subjects talked about the AIDS crisis and their ACT UP membership. Their emotions and sentiments about their lived experience. This is not an exact science, and the meaning we derived may be minimal, but there are obviously unique differences from one individual to another and we believe that has the potential to mean something. 
