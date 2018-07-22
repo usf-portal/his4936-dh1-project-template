@@ -4,7 +4,7 @@
 
 ## Basic Source Information
 
-* www.datausa.io
+* [www.datausa.io](https://datausa.io/)
 * Website built to visualize census data for specific cities and regions.
 * Deloitte, Datawheel, and Cesar Hidalgo, Professor at the MIT Media Lab and Director of Collective Learning
 	* Team of researchers, educators, economists and business executives attempting to make government data more readable and
