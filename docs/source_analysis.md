@@ -1,35 +1,34 @@
 # Source Analysis
 
-Delete this introductory material when submitting your assignment.
-
-This source analysis should discuss whatever source(s) you used for this project.
-
-See the [README.md](README.md) file for information on how to submit this assignment.
-
-**You SHOULD revise your source analysis if you already did one for the given website.**
 ---
 
 ## Basic Source Information
 
-* Where is your source located (URL? Or traditional media)
-* What kind of source is it? (Diaries, records of objects, data tables, etc...)
-* Who, or what organization, is responsible for hosting the source (if online), who gathered the information?
+* www.datausa.io
+* Website built to visualize census data for specific cities and regions.
+* Deloitte, Datawheel, and Cesar Hidalgo, Professor at the MIT Media Lab and Director of Collective Learning
+	* Team of researchers, educators, economists and business executives attempting to make government data more readable and
+	accessible.
 
 ---
 
 ## Authorship
 
-* Is there any information available discussing the process by which the information was gathered, or how the digital project was constructed?
-* How transparent is the project about the choices they made in gathering and transforming the data for digitalization? [Click here for an example of a an excellent 'About' page from a database about Anglo-Saxons](http://www.pase.ac.uk/about/index.html)
-* Do the organizations or individuals involved in gathering and publishing your data set have any stated goals or agendas?
-* Do the organizations or individuals involved seem to have any unstated agendas or goals?
-* If a 3rd party funded the project, who are they? Do they have any particular perspective?
+* "About" section: https://datausa.io/about/
+* Their mission is “to understand and visualize the critical issues facing the United States in areas like jobs, skills and
+  education across industry and geography.” 
+* It does not seem that there is any hidden agenda, however, this team wants to help show areas that need improvement in
+  education, living standards and health for all major cities across the country. 
+* D3plus, the open-source visualization program used and created by Datawheel.
 
 ---
 
 ## Data Analysis
 
-* Do the datasets involved reflect the viewpoints of particular groups or institutions, and if so, who?
-* What kinds of categorizations do you find in the data, and do they seem reasonable?
-* Do the means of data collection or categorization affect how the data is constructed in any way?
-* Does the website contain any tools for visualizing the data? Do they seem like they are making any kind of arguments?
+* Governments taking census has been a regular practice for thousands of years to keep records of its citizens. These
+  records very likely can and are used for political reasons, but that would not necessarily create a bias in the actual data. 
+* The data on the website is visualized in the form of a Tree Map for both Education and Employment sections.
+* The data provided an annual view between 2013 and 2016 of number/percentage of employees based on their occupation/industry.
+* We found these graphs intriguing when comparing educational records- which provides the number of bachelor degree graduates
+  in Tampa per field of study. 
+
