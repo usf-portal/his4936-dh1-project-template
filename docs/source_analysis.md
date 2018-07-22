@@ -19,8 +19,7 @@
   education across industry and geography.” 
 * It does not seem that there is any hidden agenda, however, this team wants to help show areas that need improvement in
   education, living standards and health for all major cities across the country. 
-* D3plus,the open-source visualization program used and created by Datawheel.
-* If a 3rd party funded the project, who are they? Do they have any particular perspective?
+* D3plus, the open-source visualization program used and created by Datawheel.
 
 ---
 
