@@ -1,6 +1,6 @@
 # Initial Findings
 
-Upon paring down the census data into a focused point we were able to see a dramatic size difference in the amount of Nursing graduates and positions compared to other occupational data. With further research into news and statistics in the Tampa area we realized that this disparity is worse than originally expected. Including articles describing the lack of employees as a Nursing Tsunami, describing the amount of positions empty. To research further we compared the graduation rates of nursing professionals from the Tampa area with the size of occupational needs and the amount of people filling positions already. 
+Upon paring down the census data into a focused point we were able to see a dramatic size difference in the amount of Nursing graduates and positions compared to other occupational data. With further research into news and statistics in the Tampa area, we realized that this disparity is worse than originally expected. Including articles describing the lack of employees as a "Nursing Tsunami", describing the amount of positions empty. [www.tampabay.com](http://www.tampabay.com/news/health/florida-facing-a-nursing-shortage-tsunami-due-to-increased-population-more/2263588) To research further we compared the graduation rates of nursing professionals from the Tampa area with the size of occupational needs and the amount of people filling positions already. 
 ---
 
 ![Grads](imgs/GradsInitialFindings.PNG)
@@ -29,4 +29,4 @@ In comparison the number of employees currently in the nursing occupation is sta
 
 #Further annalysis needed
 
-With these findings in mind a more thorough analysis of larger data pools would be necessary. Knowing the average amount of out of area employees being added to the pool, as well as the amount leaving would directly affect the position to employee ration. Additional consideration should be made for the availability of the education tracks needed to reach these positions.
+With these findings in mind, a more thorough analysis of larger data pools would be necessary. Knowing the average amount of out-of-area employees being added to the pool, as well as the amount leaving would directly affect the position to employee ratio. Additional consideration should be made for the availability of the education tracks needed to reach these positions.
