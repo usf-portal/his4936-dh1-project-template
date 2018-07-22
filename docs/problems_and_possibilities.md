@@ -6,7 +6,7 @@ When we discovered that comparing the death toll of the soldiers who were drafte
 Since we hit a dead end with draftees and enlistees, we decided to stay with U.S. casualties by state. Though to enhance our research, we included a visualization of all casualties in WWII by country in our introduction as a segway to our focus of the United States. 
 
 
-======= 
+=======
 
 
 This section serves as your sort-of conclusion/summary. Not a summary of the historical subject, but a summary of the process of the project itself. By discussing where you hit roadblocks and where you wish you could go if you had more time, you leave future individuals something to build on.
