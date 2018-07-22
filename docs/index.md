@@ -2,13 +2,19 @@
 
 ---
 
-![WWII](https://www.archives.gov/files/research/military/ww2/photos/images/thumbnails/ww2-156-l.jpg
-)
+
+![WWII](https://www.archives.gov/files/research/military/ww2/photos/images/thumbnails/ww2-156-l.jpg)
+
+<figure>
+
+
 
 *Images from WWII*
 
+
 1. Steven Somohano
 2. Tony Cifuentes
+=======
 
 ---
 This will be where our into is
