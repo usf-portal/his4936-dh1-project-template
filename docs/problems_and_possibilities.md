@@ -5,8 +5,8 @@ Our group decided to to continue using the data found in the National Archives a
 When we discovered that comparing the death toll of the soldiers who were drafted to those who were enlisted, we were very upset because we were interested in finding out for ourselves as well as creating more visuals for our research. At this point our group came together to find an alternative direction to take our project. 
 Since we hit a dead end with draftees and enlistees, we decided to stay with U.S. casualties by state. Though to enhance our research, we included a visualization of all casualties in WWII by country in our introduction as a segway to our focus of the United States. 
 
+---
 
-=======
 
 
 This section serves as your sort-of conclusion/summary. Not a summary of the historical subject, but a summary of the process of the project itself. By discussing where you hit roadblocks and where you wish you could go if you had more time, you leave future individuals something to build on.
