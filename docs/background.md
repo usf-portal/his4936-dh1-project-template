@@ -4,9 +4,17 @@
 
 The discourse on the AIDS crisis, and the origins of AIDS/HIV activism began in the early 80s, well before there was a title for the virus and disease. The earliest publications discussing the disease referred to it using homophobic rhetoric calling it a “gay plague” and “gay cancer.” The reasoning for the term “gay cancer,” correlates to Kaposi Sarcoma, which causes cancerous lesions in the soft tissue of people with AIDS (PWA); the term “gay plague,” was associated with Pneumocytis carinii pneumonia that often burdened PWA. Due to homophobic attitudes around the disease, the response from the government and medical community was slow to offer meaningful assistance to infected individuals and their partners. The marginalization and endangerment of PWA lead to many advocacy groups forming in the 80s. One group in particular, ACT UP, was formed in 1987 in response to the government and medical community’s neglect of PWA.
 
+# Useful Research Links
+
 http://www.actupny.org/
 
 http://www.actuporalhistory.org/index1.html
+
+https://www.advocate.com/commentary/2016/4/08/treasure-trove-queer-history-now-online
+
+https://timeline.avert.org/
+
+http://digitallibrary.usc.edu/cdm/landingpage/collection/p15799coll4
 
 https://www.nytimes.com/1981/07/03/us/rare-cancer-seen-in-41-homosexuals.html
 
