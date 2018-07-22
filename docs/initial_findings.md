@@ -37,7 +37,7 @@ The visualization above is of packed bubbles, this was also created inside of Ta
 
 As you can see in the photo above, when we click on the name Charles the exact ratings are viewable, which were: Negative 0.02800 and Positive 0.1550. But, even without clicking on the name Charles, we knew based on the size and color what kind of ratings the Charles interview had.On the other end of the spectrum, looking at the entire pack of bubbles, one could figure out that the Deagle interview towards the top right appears in a light mustard hue suggesting a moderate positivity rating and the large size suggests a high negativity rating, which is exactly how the Deagle interview rates. As far as the choice of colors for the packed bubbles, they were chosen to show contrast and to be viewable to people with color blindness.      
 
-## One could ask, "What does all this mean?" Or, "So what?"
+## What does all this mean?
 
 From these visualizations, we believe than one could potentially discern how the subjects talked about the AIDS crisis and their ACT UP membership. Their emotions and sentiments about their lived experience. This is not an exact science, and the meaning we derived may be minimal, but there are obviously unique differences from one individual to another and we believe that has the potential to mean something. 
 
