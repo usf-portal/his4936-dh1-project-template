@@ -1,19 +1,23 @@
-# Replace This Title!
+# WWII Casualties By State 
 
 ---
 
-![Replace Me, Sample Image](files/caesarian_code.png)
 
-*Put a caption to your image here, if you want*
+![WWII](https://www.archives.gov/files/research/military/ww2/photos/images/thumbnails/ww2-156-l.jpg)
 
-1. Put an intro image above (if you want)
-2. Change the 1st line of this file to the name of your project
-3. Replace this list with the names of your group members, linking to email or github accounts (if you want)
-4. Remember to also add your credits, introductions/summarys to the mkdocs.yml and README.md and docs/credits.md files.
+<figure>
+
+
+
+*Images from WWII*
+
+
+1. Steven Somohano
+2. Tony Cifuentes
+=======
 
 ---
-
-Replace this, putting the introduction/summary of your project here. Leave the credits in the bottom section, however.
+This will be where our into is
 
 ---
 
