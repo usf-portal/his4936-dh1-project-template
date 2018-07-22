@@ -1,5 +1,5 @@
 # HIS4936 - Hacking History
-Digital Workbook, [University of South Florida](http://www.usf.edu/), Fall 2016
+Digital Workbook, [University of South Florida](http://www.usf.edu/), Summer 2018
 
 ---
 
@@ -9,7 +9,7 @@ Instructor: [David J. Thomas](mailto::davidjthomas@usf.edu), [thePortus.com](htt
 
 
 
-!imgs/F100009467.jpg
+[Mexico Map](!imgs/F100009467.jpg)
 
 <figcaption>*Mexican Flag*</figcaption>
 
