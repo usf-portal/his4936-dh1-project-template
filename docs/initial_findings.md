@@ -3,6 +3,10 @@
 David Thomas provided our group with txt files that he obtained from a scraping he accoplished in 2017. Upon receipt of the txt files, Catherine attempted to upload them into Tableau. The mission was a failure. After conversations with Kelly, Catherine realized that she could not upload txt files into Tableau, and that data had to be produced through Orange Three first, and a csv file would need to be downladed. 
 
  After uploading the txt files into Orange Three, Catherine began trying various methods of analysis. Most of them were a downright failure, especially the word cloud that was generated, absolutely no inherent meaning could be derived from the visual Orange Three produced.Catherine imagined that AIDS, ACT, UP, or activism would be the most commonly used words in the word cloud. However that was incorrect, from viewing this visualization, the viewer has absolutely no idea ot context as to what ACT UP's oral histories discuss.   PUT THE PHOTO OF THE WORD CLOUD UNDER THIS PARAGRAPH PLEASE
+ 
+ 
+ ![image](imgs/WORD CLOUD ORANGE THREE.png)
+
 
 Catherine decided that she wanted to see how often certain words appeared within the entire collection of oral histories, using Orange Three's concordance tool, she was actually successful at generating meaningful concordances. However, she was unable to produce a visualization from said concordances. PLEASE PUT THE PHOTOS OF THE SILENCE = DEATH CONCORDANCES BENEATH THIS PARAGRAPH
 
