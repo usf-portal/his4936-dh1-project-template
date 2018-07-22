@@ -1,20 +1,20 @@
 # Initial Findings  
 
-David Thomas provided our group with txt files that he obtained from a scraping he accoplished in 2017. Upon receipt of the txt files, Catherine attempted to upload them into [Tableau](https://tableau.com). The mission was a failure. After conversations with Kelly, Catherine realized that she could not upload txt files into Tableau, and that data had to be produced through [Orange Three](https://orange.biolab.si) first, and a csv file would need to be downladed. 
+David Thomas provided our group with txt files that he obtained from a scraping he accoplished in 2017. Upon receipt of the txt files, we attempted to upload them into [Tableau](https://tableau.com). The mission was a failure. After discussing, we realized that we could not upload txt files into Tableau, and that data had to be produced through [Orange Three](https://orange.biolab.si) first, and a csv file would need to be downladed. 
 
- After uploading the txt files into Orange Three, Catherine began trying various methods of analysis. Most of them were a downright failure, especially the word cloud that was generated, absolutely no inherent meaning could be derived from the visual Orange Three produced.Catherine imagined that AIDS, ACT, UP, or activism would be the most commonly used words in the word cloud. However that was incorrect, from viewing this visualization, the viewer has absolutely no idea ot context as to what ACT UP's oral histories discuss.   
+ After uploading the txt files into Orange Three, we began trying various methods of analysis. Most of them were a downright failure, especially the word cloud that was generated, absolutely no inherent meaning could be derived from the visual Orange Three produced. We imagined that AIDS, ACT, UP, or activism would be the most commonly used words in the word cloud. However that was incorrect, from viewing this visualization, the viewer has absolutely no idea ot context as to what ACT UP's oral histories discuss.   
  
  ![image](imgs/1.png)
 
-Catherine decided that she wanted to see how often certain words appeared within the entire collection of oral histories, using Orange Three's concordance tool, she was actually successful at generating meaningful concordances. However, she was unable to produce a visualization from said concordances. 
+We decided that we wanted to see how often certain words appeared within the entire collection of oral histories. Using Orange Three's concordance tool, actually worked successfully and generated meaningful concordances. However, we were unable to produce a visualization from said concordances. 
 
 ![image](imgs/2.png)
 
 ![image](imgs/3.png)
 
-As you can see in the photo above, the Silence = Death campaign was mentioned in 77/186 interviews. The word "silence" was not the only word that Catherine attempted to use to find concordances, she also used the word "AIDS". AIDS proved to be a far more common word than silence, having appeared in every single one of the 186 interviews,it was uttered 7042 times to be exact. From the list of concordaances, one may discern how AIDS was used and words that often came before and after AIDS. 
+As you can see in the photo above, the Silence = Death campaign was mentioned in 77/186 interviews. The word "silence" was not the only word that we attempted to use to find concordances, we also used the word "AIDS". AIDS proved to be a far more common word than silence. Having appeared in every single one of the 186 interviews, AIDS was uttered 7042 times to be exact. From the list of concordaances, one may discern how AIDS was used and words that often came before and after AIDS. 
 
-With the assistance of David Thomas, Catherine was able to successfully save data from Orange Three. The file that Orage Three generated was a csv file. Thomas then aided us in opening the csv file. Initially the file would not open in Tableau. We then opened the file using Excel and we re-saved the file as a csv a second time. Once the file was re-saved in Excel, we attempted to upload it into Tableau, and finally we were able to successfully use Tableau to create a visualization! That was quite a relief. 
+With the assistance of David Thomas, we were able to successfully save data from Orange Three. The file that Orage Three generated was a csv file. Thomas then aided us in opening the csv file. Initially the file would not open in Tableau. We then opened the file using Excel and we re-saved the file as a csv a second time. Once the file was re-saved in Excel, we attempted to upload it into Tableau, and finally we were able to successfully use Tableau to create a visualization! That was quite a relief. 
 We were able to use a sentiment analysis tool in Tableau and produce a horizontal bar graph that depicts the negativity and positivity score of each interview. 
 
 ![image](imgs/4.png)
@@ -31,7 +31,7 @@ The text table above is another example of how a negative and positive rating ca
 
 ![image](imgs/8.png)
 
-The visualization above is of packed bubbles, this was also created inside of Tableau. The higher the negativity rating the larger the bubble, and the higher the positivity rating the deeper the tone of purple the higher the positivity rating. The deeper the yellow hue the lower the positivity rating is. The names are also listed, so once you are aware of the way the data is being presented, differences in size and color which indicate differences in the data become evident. Take for example, the name Charles appears towards the bottom and has the deepest hue of purple of all the bubbles, it also appears relatively small. Without clocking on the name charles, I already know that it has a high positivity rating due to the color and a low negativity rating due to size. 
+The visualization above is of packed bubbles, this was also created inside of Tableau. The higher the negativity rating the larger the bubble, and the higher the positivity rating the deeper the tone of purple the higher the positivity rating. The deeper the yellow hue the lower the positivity rating is. The names are also listed, so once you are aware of the way the data is being presented, differences in size and color which indicate differences in the data become evident. Take for example, the name Charles appears towards the bottom and has the deepest hue of purple of all the bubbles, it also appears relatively small. Without clicking on the name Charles, I already know that it has a high positivity rating due to the color and a low negativity rating due to size. 
 
 ![image](imgs/9.png)
 
