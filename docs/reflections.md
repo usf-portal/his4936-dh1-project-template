@@ -1,11 +1,10 @@
 # Problems and Possibilities
 
-This section serves as your sort-of conclusion/summary. Not a summary of the historical subject, but a summary of the process of the project itself. By discussing where you hit roadblocks and where you wish you could go if you had more time, you leave future individuals something to build on.
 
-You should talk about where you group encountered the most difficulties. What was the hardest about scraping, or visualizing, or locating historiography? Did you have problems communicating or sharing files on GitHub?
+We started our project wanting to find some information on general Tampa history. Tampa history is rooted in immigration, cigars and the appeal of coastal-sunshine living. While researching different databases and Tampa history websites, the most available data was housing records and some police reports. Still looking for something more interesting, I came across datausa.io, the website for visualizing census data. The best part of this website was how well done the visualizations were for different demographics. 
 
-What problems stopped you dead in the water? Did you have to change course mid-project to account for data that you could not get, or was not what you thought?
+The data on this website, however, only dated as far back as 2013. This was not quite the story of Tampa history we were originally seeking for. While reporting on drug cartels and pirate influence could have been more "exciting", the data we came across for education and economy in recent years has relevant importance. By taking this data, one could help shape the needs of our economy and support those undecided students on areas of needed study. 
 
-Moving on from problems, let's the reader on a positive note. What worked best, where did you think the strength of the project was? What were the most useful historical insights? What were the most useful tools?
+Once we committed to keeping with the recent data, we wanted to answer the broad question of job opportunities and any correlation to the most common fields of study. We quickly realized this was too much data and we needed to narrow down to one specific field. That led us to choosing nursing as the occupation. Over the course of 2013-2016, nursing degrees increased and so did the number of people entering that field. By further research, we learned that there is actually a massive shortage of nurses and healthcare professionals. 
 
-Finally, think of future attempts to continue this line of research, whether by yourself or others. Where do you want to go with it. What areas do you think could be expanded easily? You can discuss what you wish you could have done but could not due to lack of time/skill/et.c. But, much more than that, what would you suggest would be the most useful thing(s) you think could actually be accomplished in the space of another semester?
+This tells a story with an issue and solution, that we can help to shine a light on. 
