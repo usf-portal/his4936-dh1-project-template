@@ -1,11 +1,8 @@
 # Problems and Possibilities
 
-This section serves as your sort-of conclusion/summary. Not a summary of the historical subject, but a summary of the process of the project itself. By discussing where you hit roadblocks and where you wish you could go if you had more time, you leave future individuals something to build on.
 
-You should talk about where you group encountered the most difficulties. What was the hardest about scraping, or visualizing, or locating historiography? Did you have problems communicating or sharing files on GitHub?
+If the group had more training and time, I would loved to have been able to create an interactive map. Color coding ships with the goods they were carrying was also a goal we were trying to achieve. Overall, the project ran pretty smooth with minimal bumps. Without having to webscrape and being able to export the websites list right to Tableau made this project a breeze. 
 
-What problems stopped you dead in the water? Did you have to change course mid-project to account for data that you could not get, or was not what you thought?
+The hardest part of the project was Tableau. Not being able to visualize the goods carried was frustrating & made me have to refocus the project. The final result of the project is not what we originally had in mind but we adapted quickly and changed focus to the Roman Empire. We originally wanted to make the original map interactive to where you could click a node and the node would travel from its origin to its destination but quickly figured out that the type of visualization we wanted was a tad too advanced for this class. If we were given another semester on Tableau I believe this goal is something that could be realized. 
 
-Moving on from problems, let's the reader on a positive note. What worked best, where did you think the strength of the project was? What were the most useful historical insights? What were the most useful tools?
-
-Finally, think of future attempts to continue this line of research, whether by yourself or others. Where do you want to go with it. What areas do you think could be expanded easily? You can discuss what you wish you could have done but could not due to lack of time/skill/et.c. But, much more than that, what would you suggest would be the most useful thing(s) you think could actually be accomplished in the space of another semester?
+The most useful tool of the project was OpenRefine, without this tool visualizing the project would have been an absolute nightmare. In total, import to export, cleaning the entire excel file took us around 5-10 minutes. Without this tool the amount of time to self-edit the excel spreadsheet would have taken hours. I think the strength of our project is how clean the layout is without any markdown errors. Being an Information Technology major made this project easy to edit. 
