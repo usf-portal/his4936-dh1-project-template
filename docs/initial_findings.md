@@ -35,9 +35,15 @@ The visualization above is of packed bubbles, this was also created inside of Ta
 
 ![image](imgs/9.png)
 
-As you can see in the photo above, when we click on the name Charles the exact ratings are viewable, which were: Negative 0.02800 and Positive 0.1550. But, even without clicking on the name Charles, we knew based on the size and color what kind of ratings the Charles interview had. On the other end of the spectrum, looking at the entire pack of bubbles, one could figure out that the Deagle interview towards the top right appears in a light mustard hue suggesting a moderate positivity rating and the large size suggests a high negativity rating, which is exactly how the Deagle interview rates. As far as the choice of colors for the packed bubbles, they were chosen to show contrast and to be viewable to people with color blindness.      
+As you can see in the photo above, when we click on the name Charles the exact ratings are viewable, which were: Negative 0.02800 and Positive 0.1550. But, even without clicking on the name Charles, we knew based on the size and color what kind of ratings the Charles interview had. On the other end of the spectrum, looking at the entire pack of bubbles, one could figure out that the Deagle interview towards the top right appears in a light mustard hue suggesting a moderate positivity rating and the large size suggests a high negativity rating, which is exactly how the Deagle interview rates. As far as the choice of colors for the packed bubbles, they were chosen to show contrast and to be viewable to people with color blindness.     
 
+For comparison, we also put the data into the program Voyant, to moderate success. After a quick upload of the txt files provided by Professor Thomas, we were able to create a couple more visualizations. For instance, we created word tree based around the term "gay." This shows the most common phrases with that word. Ignoring some of the more common words like "of" and "the," we were interested to find the terms "young" and "hidden" among the most common in front of the term "gay." Perhaps emphasizing the climate for gay men at the peak of ACTUP, young and primarily hidden.
 
+![image](imgs/v3.png)
+
+Additionally, we also created a chart of correlations. Among the most correlated words were "aids" and "gay" to "people." Again, it would appear that there was a focus within these interviews on the people of the ACTUP movement. Possibly showing that the interviewees would often talk about themselves as well as their friends/ colleagues within the group. Or, maybe this signifies them speaking as their critics. It is hard to come to a definitive conclusion with these tools, nonetheless, the information is interesting and does give us some insight into the overall context of these interviews. All without having to read all 186 in detail.
+
+![image](imgs/v1.png)
 
 
 ## What does all this mean?
