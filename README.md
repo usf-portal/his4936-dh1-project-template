@@ -9,7 +9,7 @@ Instructor: [David J. Thomas](mailto::davidjthomas@usf.edu), [thePortus.com](htt
 
 
 
-[Mexico Map](!imgs/F100009467.jpg)
+[Mexico Map](!imgs/PoliticalMapofMexico.gif)
 
 <figcaption>*Mexican Flag*</figcaption>
 

@@ -1,6 +1,8 @@
 # Source Analysis
 
+![Pew Research Center](imgs/PewResearchCenter.png)
 ---
+
 
 The source that I chose to use for this assignment is a URL, titled “Mexico, by the Numbers”. Although it was somewhat difficult to find some data sets on Mexico in the beginning, I did manage to find this webpage containing multiple graphs on the demographics, economics, and crime in Mexico. This information is part of a much bigger report, titled “Net Migration from Mexico Falls to Zero- and Perhaps Less” The Pew Research Center, specifically the Hispanic Trends tab is hosting this information, it also seems like the Pew Research Center collected for their own research. A great tool is that each author has their own profile, which has their contact information and their expertise, among other information. This information was collected by senior demographer, Jeffrey S. Passel, senior writer/editor, D’Vera Cohn and senior researcher Ana Gonzalez-Barrera.
 The way the information is collected is not disclosed but the resources that the researchers used is listed, I assume the way the information was collected was through each governments website. The information that is collected is gathered from numerous data sources from both Mexico and the United States, including the census from both countries, as well as data from the World Bank and the United Nations Population Division.
