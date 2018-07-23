@@ -5,7 +5,6 @@
 
 ## Project Bibliography
 
-=======
 * Cartwright, Mark. "Amphora." Ancient History Encyclopedia. July 10, 2018. Accessed July 10, 2018. https://www.ancient.eu/Amphora/.
 
 	* To understand ancient trade, it is important to research the items traded. Upon looking at the database the most common items traded were Amphoras. This source explains what they are, how they differ and how to tell the difference between each areas Amphoras. 
