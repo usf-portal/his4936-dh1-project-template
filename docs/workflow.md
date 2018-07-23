@@ -9,5 +9,12 @@ The websites I used for this project, like [UN Aids](unaids.org), are natioanlly
 
  I took out the infromation that I did not believe was necessary for the quesions that I am asking. I if it was a table or graph. For example for this data, from the World Health Organization, I took out information about the median income. Which is does impact the health of Mexico's citizens, but I decided to take it out because it has no real impact to the information I am trying to collect.
 
+![Tableau Attempt 1](imgs/WHOTableauAttempt1.png)
 
- What program(s) or techniques did you decide on to visualize or analyze it? Why did you feel those programs (e.g. Tableau or Gephi) were better than other options, given your research interest? Did you have to do anything to the data inside Tableau?
+I tried make some sort of table, bar or line graph but I could not figure out what I did wrong, I do believe that the mistakes I made were most likely made before I loaded all of the data on Tableau and tried to edit it.
+
+![Edit Attempt 2](imgs/WHOExcelAttempt2.png)
+
+I tried again to edit the data from the World Health Organization, this time I had better luck with it since it was more familiar and again I loaded the information on Tableau and I had the same result. The visualization I tried to make did come out a little better than the first time, which meant I was doing something right, but I did not know what.
+
+![Tableau Attempt 2](imgs/Excel,Attempt2.png)

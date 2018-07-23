@@ -9,11 +9,3 @@ There has been a good amount of research and study that has been done on the hea
 
 There have been discussions about the health and the history of Mexico and its people together, most of the information I gathered either does not mention the health side of history, in this case from January 2000 to the most recent data I can gather, or how the health of Mexico's citizens has palyed a role in they themselves making history. I did realize that the dates I chose might have to do with this situation.
 Because of this I have focused more on the health side of the problem. From the research that I have done, some of the data, like that of UNAIDS (http://www.unaids.org/en/regionscountries/countries/mexico) does go up to 2017, while others, the lastest information that is avaliable is from 2016.
-
----
-
-## Digital Background
-
-
-
-You should also make sure to do research on any relevant digital work, whether scholarly articles or digital projects. Make sure to check Digital Humanities Quarterly, or [DHQ](http://www.digitalhumanities.org/dhq/), [Debates in the Digital Humanities](http://dhdebates.gc.cuny.edu/), [JStor](https://jstor.org), blogs and more to find relevant work.
