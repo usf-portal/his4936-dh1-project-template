@@ -1,25 +1,30 @@
 # Initial Findings
 
-This is where you where you discuss any (initial) conclusions you have come to. This is also a natural place to put any and all visualizations that you come up with. In fact, this is where you tell the reader what it is you discovered. You can use the first person if that helps you discuss the process. This is where you both describe to the reader what they are looking at (if they are looking at a visualization) and, most importantly, what your interpretation of the results is.
+![](imgs/Tableau_1.PNG)
 
-If you want to add an image with a caption you can do it like this....
+This map is a visualization of shipwrecks from trade ships found in the Mediterranean. We can assume that where there are shipwrecks there was active trade in these locations. There are three major areas where trade occurred. Massillia seems to be one of the busiest areas of trade, followed by Illyria and lastly in the Aegean sea. The majority of the ships that were found are central to the Roman Empire. Where there were Romans there was flourishing trade. 
 
-<figure>
+---
 
-![Replace Me, Sample Image](imgs/caesarian_code.png)
+![](imgs/Tableau_2.PNG)
 
-<figcaption>
+Although somewhat large, this chart helps solidify the previous statements. This visualization shows the number of ships that belong to a certain time period. The first major spike is the Byzantine, or the Eastern Roman Empire, and the Classical era. If you study the visualization there is a trend that emerges. As stated above, the trend shows that in the time of the Romans is where we find the most trade vessels. 
 
-*Put a caption to your image here, if you want*
+---
+## Ship's Origin
+![](imgs/place_of_origin.PNG)
 
-</figcaption>
+---
+## Ship's Destination
 
-</figure>
+![](imgs/Destination.PNG)
 
-Whether you turn your visualizations into static pictures and put them here or embed them, you MUST discuss your visualizations adequately. That means that whoever is the visualization expert must explain what they think the visualization means. You should explain anything that is not self-apparent from the picture alone. Moreover, you should at least comment on whether you think you can draw broader conclusions from any of the visualizations, either when considered individually or all together.
+---
 
-If your project was less visualization-centric, this is where you at least explain in plain words what you learned through the process of non-visual analysis. For example, if you used text mining not for visualization purposes, but to help you manually find interesting threads of conversation in a body of documents.
+The last two visualizations help us see who was trading with who. The first visualization is a graph of where the ships place of origins were and how many of those ships came from that area. The second visualization is the number of ships destinations. By comparing the two 
+we can infer who was importing and who was exporting thier goods the most frequently. The majority of the ships come from areas surrounding the Aegean but rarely any ships were headed to areas around the Aegean. We can infer that areas around the Aegean sold thier goods much more frequently than they bought goods. To further help support the assumption of the first statement, we can see from the second visualization that the majority of the ships destination was Rome. Rome was a central trade hub for all areas around the Mediterranean.  
 
-You should also make sure to be a cautious scholar, and to think about the limitations of what the visualizations can actually tell you. As indicated by the section name, you are **not** expected to make hard conclusions that upend serious historical debates. Rather, this is a place to explore what might be learned from visual exploration.
+---
+# Further Attempts
 
-You must also comment on where you would go next. If these are initial findings, where do you think the best profit would be for any future attempts. This is also where you can talk about pitfalls that limited your ability to learn more about the topic. How might future projects overcome these difficulties?
+Although these were just my initial findings, it would have been of great importance to have been able to designed an interactive map and to make visualizations of which areas traded which goods.  This would greatly improve the project in showing what goods were being traded to who, who exported certain goods and who imported certain goods. 
