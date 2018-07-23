@@ -23,11 +23,11 @@ We were able to use a sentiment analysis tool in Tableau and produce a horizonta
 
 ![image](imgs/6.png)
 
-In the graphs above you can see that each interview has a unique negativity and positivity rating. For example, you can see that the Katz interview is has a far highter positivity than negativity rating. And, Lyons' interview appears to be far more negative than the other interviews in the photo. Additionally in the other photo, you can see that Dorman's negativity rating is very close to the positivity rating, Neg:0.7100 and Pos: .0790. Dorman, like Lyons' interview has the highest negativity ratings within the grouping in the photo, but Lyons'positivity rating, coming in at 0.1110 is much lower than Dorman's.
+In the graphs above you can see that each interview has a unique negativity and positivity rating. For example, you can see that the Katz interview is has a far highter positivity than negativity rating. And, Lyons' interview appears to be far more negative than the other interviews in the photo. Additionally in the other photo, you can see that Dorman's negativity rating is very close to the positivity rating, Neg:0.7100 and Pos: .0790. Dorman, like Lyons' interview has the highest negativity ratings within the grouping in the photo, but Lyons' positivity rating, coming in at 0.1110 is much lower than Dorman's.
 
 ![image](imgs/7.png)
 
-The text table above is another example of how a negative and positive rating can be visualized with Tableau. Using the exact same data set as before, Catherine created a text table. The table is definately a more strait forward presentation of the data, having the exact rating displayed next to each name. I believe the table could be used in a fashion that orders by rating rather than alphabetically. We weren't familiar enough with Tableau to do this, however if it was doable we believe it would demonstrate the most positive and the most negative interviews. 
+The text table above is another example of how a negative and positive rating can be visualized with Tableau. Using the exact same data set as before, we created a text table. The table is definately a more strait forward presentation of the data, having the exact rating displayed next to each name. I believe the table could be used in a fashion that orders by rating rather than alphabetically. We weren't familiar enough with Tableau to do this, however if it was doable we believe it would demonstrate the most positive and the most negative interviews. 
 
 ![image](imgs/8.png)
 
