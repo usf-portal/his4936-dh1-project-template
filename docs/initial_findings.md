@@ -2,7 +2,7 @@
 
 ![](imgs/Tableau_1.PNG)
 
-This map is a visualization of shipwrecks from trade ships found in the Mediterranean. We can assume that where there are shipwrecks there was activate trade in these locations. There are three major areas where trade occurred. Massillia seems to be one of the busiest areas of trade, followed by Illyria and lastly in the Aegean sea. The majority of the ships that were found are central to the Roman Empire. Where there were Romans there was flourishing trade. 
+This map is a visualization of shipwrecks from trade ships found in the Mediterranean. We can assume that where there are shipwrecks there was active trade in these locations. There are three major areas where trade occurred. Massillia seems to be one of the busiest areas of trade, followed by Illyria and lastly in the Aegean sea. The majority of the ships that were found are central to the Roman Empire. Where there were Romans there was flourishing trade. 
 
 ---
 
