@@ -2,6 +2,9 @@
 
 Describe your overall workflow here.
 
+David Thomas provided us with txt files of oral history transcripts from ACT UP's online oral history repository. From those txt files we were able to upload them into Orange Three and Voyant. The data derived was successfully uploaded into Tableau and was analyzed using a sentiment analysis tool. Below we will discuss the various approaches we used to derive data and meaning from the original txt files. 
+
+
 Discuss (in detail) the processes of
 
 * Getting the data

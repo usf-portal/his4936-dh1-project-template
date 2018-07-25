@@ -14,6 +14,7 @@ See the [README.md](README.md) file for information on how to submit this assign
 * Where is your source located (URL? Or traditional media)
 * What kind of source is it? (Diaries, records of objects, data tables, etc...)
 * Who, or what organization, is responsible for hosting the source (if online), who gathered the information?
+KELLY, HERE YOU MAY WANT TO INCLUDE WHO PROVIDED FUNDING FOR THIS PROJECT, "This project is a program of MIX—the New York Queer Experimental Film Festival and has been funded by a major grant from the Ford Foundation and by grants from the Gesso Foundation, the Gill Foundation, the Andy Warhol Foundation for the Visual Arts, the Harvard College Library, Broadway Cares/Equity Fights AIDS, the MAC AIDS Fund, the Open Society Foundations, the Robert L. Monette Trust, the James & Ruth Wilder Foundation, the Jessie Smith Noyes Foundation and the Phil Zwickler Memorial & Charitable Trust and hundreds of individuals. The project has also been supported by public funds from the New York State Council on the Arts. We are also grateful for the generous donation from our friend Philip Willkie." FOUND AT THIS LINK http://www.actuporalhistory.org/index1.html
 
 ---
 

@@ -16,6 +16,11 @@
 * Link to any emails or github accounts (if you want)
 * Leave the credits at the bottom
 
+* [Catherine Cueto](mailto:calesandrini@mail.usf.edu)
+=======
+* [Kelly Teel](mailto:kellyteel@mail.usf.edu)
+
+
 ---
 
 Created as part of the course [HIS4936, Digital Humanities I: Hacking History](https://hacking-history.readthedocs.io), by [David J. Thomas](https://github.com/thePortus) at the [University of South Florida](https://www.usf.edu)
