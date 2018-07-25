@@ -35,7 +35,6 @@ Temporary Items
 
 # ============================================== SETTINGS, RULES, AND MISC FILES
 
-# ===== SUBLIME
 *.sublime-project
 *.sublime-workspace
 sftp-config.json
