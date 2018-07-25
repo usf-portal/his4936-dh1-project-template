@@ -1,25 +1,11 @@
 # Project Background
 
 ---
-
-Put a general discussion of your topic here. Don't get into the historiography or scholarship here. Just introduce to your reader what your topic is. What is the 'problem', the 'question', and/or the 'argument'.
-
-YOU SHOULD BE LIBERAL AND INCLUDE ANY AND ALL LINKS WHEN RELEVANT
+There has been a good amount of research and study that has been done on the health of Mexico's citizens. What I want to find out is whether it has gotten worse or better overtime, why and how. Although some of the research that I have found does show the most recent information, all of them do not show the expected data, in one case the Health Organization did show what they expected whould happen along with the information they gathered (http://www.healthdata.org/mexico?language=41). The projections of the data they, the different organizations, gathered are also not shown. The follow up of the different organizations, in terms of whether the situation has gotten better, if at all is not there.
 
 ---
 
-## Historical Background
+## Background
 
-Put a discussion of any relevant historigraphy you think relates to the topic.You can discuss the historiography of specific times and places, but you can also discuss any theoretical literature you think is relevant.
-
-You have freedom to roam from the narrow topic of your project to explore how different authors/schools of thought have impacted scholarly approaches over time. However, make sure that in the end you clearly relate how this discussion relates to the subject of your project and/or your choices in methods or interpreative models.
-
-As you discuss different authors, you may site them using (author, page) style parenthetical notation. Make sure that a full citation in [Chicago](http://chicagomanualofstyle.org) is added to the 'docs/credits.md' page.
-
----
-
-## Digital Background
-
-You should also make sure to do research on any relevant digital work, whether scholarly articles or digital projects. Make sure to check Digital Humanities Quarterly, or [DHQ](http://www.digitalhumanities.org/dhq/), [Debates in the Digital Humanities](http://dhdebates.gc.cuny.edu/), [JStor](https://jstor.org), blogs and more to find relevant work.
-
-You don't actually have to have a sepearte 'Digital Background' section. If it feels more natural to you, you may combine them into a single discussion. This is especially a good idea if you feel that with your topic you cannot talk about historiography without also talking about digital scholarship, and vice versa.
+There have been discussions about the health and the history of Mexico and its people together, most of the information I gathered either does not mention the health side of history, in this case from January 2000 to the most recent data I can gather, or how the health of Mexico's citizens has palyed a role in they themselves making history. I did realize that the dates I chose might have to do with this situation.
+Because of this I have focused more on the health side of the problem. From the research that I have done, some of the data, like that of UNAIDS (http://www.unaids.org/en/regionscountries/countries/mexico) does go up to 2017, while others, the lastest information that is avaliable is from 2016.

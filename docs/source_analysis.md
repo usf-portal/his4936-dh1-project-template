@@ -1,35 +1,10 @@
 # Source Analysis
 
-Delete this introductory material when submitting your assignment.
-
-This source analysis should discuss whatever source(s) you used for this project.
-
-See the [README.md](README.md) file for information on how to submit this assignment.
-
-**You SHOULD revise your source analysis if you already did one for the given website.**
+![Pew Research Center](imgs/PewResearchCenter.png)
 ---
 
-## Basic Source Information
 
-* Where is your source located (URL? Or traditional media)
-* What kind of source is it? (Diaries, records of objects, data tables, etc...)
-* Who, or what organization, is responsible for hosting the source (if online), who gathered the information?
-
----
-
-## Authorship
-
-* Is there any information available discussing the process by which the information was gathered, or how the digital project was constructed?
-* How transparent is the project about the choices they made in gathering and transforming the data for digitalization? [Click here for an example of a an excellent 'About' page from a database about Anglo-Saxons](http://www.pase.ac.uk/about/index.html)
-* Do the organizations or individuals involved in gathering and publishing your data set have any stated goals or agendas?
-* Do the organizations or individuals involved seem to have any unstated agendas or goals?
-* If a 3rd party funded the project, who are they? Do they have any particular perspective?
-
----
-
-## Data Analysis
-
-* Do the datasets involved reflect the viewpoints of particular groups or institutions, and if so, who?
-* What kinds of categorizations do you find in the data, and do they seem reasonable?
-* Do the means of data collection or categorization affect how the data is constructed in any way?
-* Does the website contain any tools for visualizing the data? Do they seem like they are making any kind of arguments?
+The source that I chose to use for this assignment is a URL, titled “Mexico, by the Numbers”. Although it was somewhat difficult to find some data sets on Mexico in the beginning, I did manage to find this webpage containing multiple graphs on the demographics, economics, and crime in Mexico. This information is part of a much bigger report, titled “Net Migration from Mexico Falls to Zero- and Perhaps Less” The Pew Research Center, specifically the Hispanic Trends tab is hosting this information, it also seems like the Pew Research Center collected for their own research. A great tool is that each author has their own profile, which has their contact information and their expertise, among other information. This information was collected by senior demographer, Jeffrey S. Passel, senior writer/editor, D’Vera Cohn and senior researcher Ana Gonzalez-Barrera.
+The way the information is collected is not disclosed but the resources that the researchers used is listed, I assume the way the information was collected was through each governments website. The information that is collected is gathered from numerous data sources from both Mexico and the United States, including the census from both countries, as well as data from the World Bank and the United Nations Population Division.
+The research and the information is very transparent, all the resources are listed and each source has its own hyperlink, but there is no mention of how the data was transformed into graphs. The Pew Research Center is a nonpartisan fact tank that informs the public the issues, attitudes and trends and they are a subsidiary of the Pew Charitable Trusts, they also receive funding from philanthropists and institutional funders. Because of these facts I would say that the research does not have another goal than to inform the public.
+ I believe the only way that the unstated goal(s) or agenda might how or when the research is released to the public which can affect the public and how it is interpreted. The research does not state if the Pew Research funded it or if it was a third party, but again I assume that it was the Pew Center since the center is a research center. The categorizations vary, but the authors did provide a terminology list and note on said terminology to clarify.

@@ -1,28 +1,17 @@
-# Replace This Title!
+# Causes of Death in Mexico
 
 ---
 
-<figure>
 
-![Replace Me, Sample Image](imgs/caesarian_code.png)
 
-<figcaption>
+![Mexican Flag](imgs/F100009467.jpg)
 
-*Put a caption to your image here, if you want*
 
-</figcaption>
-
-</figure>
-
-1. Put an intro image above (if you want)
-2. Change the 1st line of this file to the name of your project
-3. Replace this list with the names of your group members, linking to email or github accounts (if you want)
-4. Remember to also add your credits, introductions/summarys to the mkdocs.yml and README.md and docs/credits.md files.
+*Mexico's Flag*
 
 ---
 
-Replace this, putting the introduction/summary of your project here. Leave the credits in the bottom section, however.
-
+My project will examine and analyze the death rates throughout the years in Mexico as a whole and how it has either gotten worse or better. Although I will mention the cartel killings and the murders that take place, I will mainly focus on the health of the country as a whole by discussing the different diseases and illness that affect Mexico. I will gather information from various sources including the Mexican government and other international places. I plan on cleaning up the data and creating a visualization using Tableau.
 ---
 
 Created as part of the course [HIS4936, Digital Humanities I: Hacking History](https://hacking-history.readthedocs.io), by [David J. Thomas](https://github.com/thePortus) at the [University of South Florida](https://www.usf.edu)
