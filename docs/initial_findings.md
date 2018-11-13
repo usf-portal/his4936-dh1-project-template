@@ -23,3 +23,5 @@ If your project was less visualization-centric, this is where you at least expla
 You should also make sure to be a cautious scholar, and to think about the limitations of what the visualizations can actually tell you. As indicated by the section name, you are **not** expected to make hard conclusions that upend serious historical debates. Rather, this is a place to explore what might be learned from visual exploration.
 
 You must also comment on where you would go next. If these are initial findings, where do you think the best profit would be for any future attempts. This is also where you can talk about pitfalls that limited your ability to learn more about the topic. How might future projects overcome these difficulties?
+# Finding for 11/13
+
