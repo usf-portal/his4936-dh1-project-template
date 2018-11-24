@@ -4,7 +4,7 @@
 
 <figure>
 
-![Replace Me, Sample Image](imgs/)
+!(imgs/)
 
 <figcaption>
 
