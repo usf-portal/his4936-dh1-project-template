@@ -1,10 +1,10 @@
-# Replace This Title!
+# An Analysis of Clinton's Emails!
 
 ---
 
 <figure>
 
-![Replace Me, Sample Image](imgs/caesarian_code.png)
+![Replace Me, Sample Image](imgs/)
 
 <figcaption>
 
