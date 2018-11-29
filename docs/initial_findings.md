@@ -1,25 +1,33 @@
 # Initial Findings
 
-This is where you where you discuss any (initial) conclusions you have come to. This is also a natural place to put any and all visualizations that you come up with. In fact, this is where you tell the reader what it is you discovered. You can use the first person if that helps you discuss the process. This is where you both describe to the reader what they are looking at (if they are looking at a visualization) and, most importantly, what your interpretation of the results is.
+Upon paring down the census data into a focused point we were able to see a dramatic size difference in the amount of Nursing graduates and positions compared to other occupational data. With further research into news and statistics in the Tampa area, we realized that this disparity is worse than originally expected. Including articles describing the lack of employees as a "Nursing Tsunami", describing the amount of positions empty. [www.tampabay.com](http://www.tampabay.com/news/health/florida-facing-a-nursing-shortage-tsunami-due-to-increased-population-more/2263588) To research further we compared the graduation rates of nursing professionals from the Tampa area with the size of occupational needs and the amount of people filling positions already. 
 
-If you want to add an image with a caption you can do it like this....
+---
 
-<figure>
+![Grads](imgs/GradsInitialFindings.PNG)
 
-![Replace Me, Sample Image](imgs/caesarian_code.png)
+*Graduation Rates*
 
-<figcaption>
+This graph focuses in on the medical professional graduation rates in the Tampa area. We can see a large number of nursing graduates over other medical positions. Further research revealed an increase in institutions offering nursing training programs. This increase in programs and the almost guaranteed access to employment has created a striking effect on attendees of these programs. 
 
-*Put a caption to your image here, if you want*
+---
 
-</figcaption>
+![Industry](imgs/IndustyInitialFindings.PNG)
 
-</figure>
+*Industry size*
 
-Whether you turn your visualizations into static pictures and put them here or embed them, you MUST discuss your visualizations adequately. That means that whoever is the visualization expert must explain what they think the visualization means. You should explain anything that is not self-apparent from the picture alone. Moreover, you should at least comment on whether you think you can draw broader conclusions from any of the visualizations, either when considered individually or all together.
+Further research yielding more confirming data. As we see in the image above the nursing and medical fields vastly surpass other industry fields. This data includes other health professionals as well but demonstrates appropriately the need for increased educated workers in the medical industry. 
 
-If your project was less visualization-centric, this is where you at least explain in plain words what you learned through the process of non-visual analysis. For example, if you used text mining not for visualization purposes, but to help you manually find interesting threads of conversation in a body of documents.
+---
 
-You should also make sure to be a cautious scholar, and to think about the limitations of what the visualizations can actually tell you. As indicated by the section name, you are **not** expected to make hard conclusions that upend serious historical debates. Rather, this is a place to explore what might be learned from visual exploration.
+*Occupation*
 
-You must also comment on where you would go next. If these are initial findings, where do you think the best profit would be for any future attempts. This is also where you can talk about pitfalls that limited your ability to learn more about the topic. How might future projects overcome these difficulties?
+![Occupation](imgs/OccupationInitialFindings.PNG)
+
+In comparison the number of employees currently in the nursing occupation is staggering low. In the graph above we see the disparity in educated workers versus skilled, uneducated workers. The larger numbers in occupations such as Sales, Food & Serving, and Cleaning & Maintenance demonstrates the large concentration of employees separated by education requirements from these needed positions. 
+
+---
+
+#Further annalysis needed
+
+With these findings in mind, a more thorough analysis of larger data pools would be necessary. Knowing the average amount of out-of-area employees being added to the pool, as well as the amount leaving would directly affect the position to employee ratio. Additional consideration should be made for the availability of the education tracks needed to reach these positions.
