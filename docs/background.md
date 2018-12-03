@@ -8,13 +8,16 @@ YOU SHOULD BE LIBERAL AND INCLUDE ANY AND ALL LINKS WHEN RELEVANT
 
 ---
 
-## Historical Background
+## Historical and Digital Background
 
 Put a discussion of any relevant historigraphy you think relates to the topic.You can discuss the historiography of specific times and places, but you can also discuss any theoretical literature you think is relevant.
 
 You have freedom to roam from the narrow topic of your project to explore how different authors/schools of thought have impacted scholarly approaches over time. However, make sure that in the end you clearly relate how this discussion relates to the subject of your project and/or your choices in methods or interpreative models.
 
-As you discuss different authors, you may site them using (author, page) style parenthetical notation. Make sure that a full citation in [Chicago](http://chicagomanualofstyle.org) is added to the 'docs/credits.md' page.
+
+Part of the historiography of text analysis is the "Gender, Race, and Nationality in Black Drama, 1950-2006: Mining Differences in Language Use in Authors and their Characters" [(Argamon et al., 2009)](. The authors discuss their use of text analysis to test whether techniques can tell the difference between authors of different gender, race, and nationality. Though they were successful in their efforts, it was only after normalizing the data that the authors were able to use the techniques to determine author and character gender, putting distance between the text the authors fear limits the ability to interpret text with the tools. Argamon and his team point out focusing on only simple categories may prevent analysis of complex themes using text analysis or reinforce the biases of authors by "confirming" what they set out to prove.
+
+Another part of the historiography responding directly to the article is 
 
 ---
 
