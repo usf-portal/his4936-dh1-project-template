@@ -11,7 +11,7 @@ See the [README.md](README.md) file for information on how to submit this assign
 
 ## Basic Source Information
 
-* The source is located at [https://wikileaks.org/clinton-emails/] (https://wikileaks.org/clinton-emails/), consists of thousands of Clinton's emails, and is hosted by WikiLeaks, a [whistleblower organization](https://wikileaks.org/What-is-WikiLeaks.html). 
+* The source is located at [https://wikileaks.org/clinton-emails/](https://wikileaks.org/clinton-emails/), consists of thousands of Clinton's emails, and is hosted by WikiLeaks, a [whistleblower organization](https://wikileaks.org/What-is-WikiLeaks.html). 
 
 
 
