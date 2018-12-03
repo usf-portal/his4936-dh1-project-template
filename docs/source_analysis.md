@@ -22,14 +22,16 @@ See the [README.md](README.md) file for information on how to submit this assign
 
 
 * Do the organizations or individuals involved in gathering and publishing your data set have any stated goals or agendas?
-* Do the organizations or individuals involved seem to have any unstated agendas or goals?
-
+According to WikiLeaks, it wants to promote transparency to reduce corruption in government, business, and other institues [(WikiLeaks, 2011)](https://wikileaks.org/About.html). However, WikiLeaks founder and leader Julian Assange made comments in 2015 that suggest he wanted Hillary to lose the Presidential election, which means it is likely there was alterior motive in their construction of the dataset [(Currier and Lee, 2018)](https://theintercept.com/2018/02/14/julian-assange-wikileaks-election-clinton-trump/). 
+* 
 ---
 
 ## Data Analysis
 
 * Do the datasets involved reflect the viewpoints of particular groups or institutions, and if so, who?
-The emails reflect the views of Hillary Clinton and the people she is closest to - politically and otherwise. 
+The emails reflect the views of Hillary Clinton and the people she is closest to - politically and otherwise, while their digitization reflect Julian Assange's anti-Clinton stance - the search engine faciliates users' ability to comb through the information and find details about Clinton she wants hidden.
+
+
 * What kinds of categorizations do you find in the data, and do they seem reasonable?
 
 * Do the means of data collection or categorization affect how the data is constructed in any way?
