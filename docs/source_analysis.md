@@ -29,6 +29,7 @@ See the [README.md](README.md) file for information on how to submit this assign
 ## Data Analysis
 
 * Do the datasets involved reflect the viewpoints of particular groups or institutions, and if so, who?
+The emails reflect the views of Hillary Clinton and the people she is closest to - politically and otherwise. 
 * What kinds of categorizations do you find in the data, and do they seem reasonable?
+
 * Do the means of data collection or categorization affect how the data is constructed in any way?
-* Does the website contain any tools for visualizing the data? Do they seem like they are making any kind of arguments?
