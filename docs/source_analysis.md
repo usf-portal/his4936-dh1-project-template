@@ -11,11 +11,9 @@ See the [README.md](README.md) file for information on how to submit this assign
 
 ## Basic Source Information
 
-* Where is your source located (URL? Or traditional media)
-* What kind of source is it? (Diaries, records of objects, data tables, etc...)
-* Who, or what organization, is responsible for hosting the source (if online), who gathered the information?
+* The source is located at [https://wikileaks.org/clinton-emails/] (https://wikileaks.org/clinton-emails/), consists of thousands of Clinton's emails, and is hosted by WikiLeaks, a [whistleblower organization](https://wikileaks.org/What-is-WikiLeaks.html). 
 
----
+
 
 ## Authorship
 
