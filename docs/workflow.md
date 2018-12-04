@@ -2,7 +2,7 @@
 
 
 
-	The author chose to analyze the emails of Hillary Clinton released by WikiLeaks out of a desire to work on a project that possessed political dimensions. The author received a copy of the emails from Prof. David J. Thomas, in both a CSV and TXT format. While Prof. Thomas sent all the emails from WikiLeaks (roughly eighteen thousand) to this author, the author’s computer was unable to process such a large dataset in Orange 3, which forced him to reduce the CSV file to approximately three thousand emails. The author used Orange 3 to analyze the data because it gave him the ability to use hierarchical clustering for text analysis - a technical description of the technique can be found [here](https://docs.orange.biolab.si/3/data-mining-library/reference/clustering.hierarchical.html) – which was useful given the large amount of emails (Orange, n.d.).  
+The author chose to analyze the emails of Hillary Clinton released by WikiLeaks out of a desire to work on a project that possessed political dimensions. The author received a copy of the emails from Prof. David J. Thomas, in both a CSV and TXT format. While Prof. Thomas sent all the emails from WikiLeaks (roughly eighteen thousand) to this author, the author’s computer was unable to process such a large dataset in Orange 3, which forced him to reduce the CSV file to approximately three thousand emails. The author used Orange 3 to analyze the data because it gave him the ability to use hierarchical clustering for text analysis - a technical description of the technique can be found [here](https://docs.orange.biolab.si/3/data-mining-library/reference/clustering.hierarchical.html) – which was useful given the large amount of emails (Orange, n.d.).  
 	
 	![Orange Worklfow](imgs/workflow.png)
 	
