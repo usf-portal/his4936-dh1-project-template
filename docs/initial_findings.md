@@ -2,19 +2,6 @@
 
 This is where you where you discuss any (initial) conclusions you have come to. This is also a natural place to put any and all visualizations that you come up with. In fact, this is where you tell the reader what it is you discovered. You can use the first person if that helps you discuss the process. This is where you both describe to the reader what they are looking at (if they are looking at a visualization) and, most importantly, what your interpretation of the results is.
 
-If you want to add an image with a caption you can do it like this....
-
-<figure>
-
-![Replace Me, Sample Image](imgs/caesarian_code.png)
-
-<figcaption>
-
-*Put a caption to your image here, if you want*
-
-</figcaption>
-
-</figure>
 
 Whether you turn your visualizations into static pictures and put them here or embed them, you MUST discuss your visualizations adequately. That means that whoever is the visualization expert must explain what they think the visualization means. You should explain anything that is not self-apparent from the picture alone. Moreover, you should at least comment on whether you think you can draw broader conclusions from any of the visualizations, either when considered individually or all together.
 
