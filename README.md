@@ -7,13 +7,7 @@ By: [Brandon Pearson](mailto:bpearson1@mail.usf.edu)
 
 ---
 
-<figure>
 
-![Replace Me, Sample Image](docs/imgs/)
-
-<figcaption>*Put a caption to your image here, if you want*</figcaption>
-
-</figure>
 
 ---
 
