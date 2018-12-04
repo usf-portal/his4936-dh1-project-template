@@ -8,7 +8,7 @@ YOU SHOULD BE LIBERAL AND INCLUDE ANY AND ALL LINKS WHEN RELEVANT
 
 ---
 
-## Historical Background
+## Historical and Digital Background
 
 Part of the historiography of text analysis is the "Gender, Race, and Nationality in Black Drama, 1950-2006: Mining Differences in Language Use in Authors and their Characters" [(Argamon et al., 2009)](http://digitalhumanities.org:8081/dhq/vol/3/2/000043/000043.html). The authors discuss their use of text analysis to test whether techniques can tell the difference between authors of different gender, race, and nationality. Though they were successful in their efforts, it was only after normalizing the data that the authors were able to use the techniques to determine author and character gender, putting distance between the text the authors fear limits the ability to interpret text with the tools. Argamon and his team point out focusing on only simple categories may prevent analysis of complex themes using text analysis or reinforce the biases of authors by "confirming" what they set out to prove.
 
@@ -18,13 +18,5 @@ The relevance of these articles to using text analysis on WikiLeaks' archive of 
 
 
 ---
-
-## Digital Background
-
-
-
-You should also make sure to do research on any relevant digital work, whether scholarly articles or digital projects. Make sure to check Digital Humanities Quarterly, or [DHQ](http://www.digitalhumanities.org/dhq/), [Debates in the Digital Humanities](http://dhdebates.gc.cuny.edu/), [JStor](https://jstor.org), blogs and more to find relevant work.
-
-You don't actually have to have a sepearte 'Digital Background' section. If it feels more natural to you, you may combine them into a single discussion. This is especially a good idea if you feel that with your topic you cannot talk about historiography without also talking about digital scholarship, and vice versa.
 
 
