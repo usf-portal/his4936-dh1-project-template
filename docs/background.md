@@ -2,7 +2,7 @@
 
 ---
 
-The author chose to analyze WikiLeaks Archive of Hillary Clinton's emails to find out what information could be learned from them.
+The author chose to analyze WikiLeaks Archive of Hillary Clinton's emails to try and learn how Clinton ran the Dept. of State.  
 
 YOU SHOULD BE LIBERAL AND INCLUDE ANY AND ALL LINKS WHEN RELEVANT
 
