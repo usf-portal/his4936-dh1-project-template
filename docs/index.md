@@ -10,10 +10,6 @@
 
 
 
-</figcaption>
-
-</figure>
-
 4. Remember to also add your credits, introductions/summarys to the mkdocs.yml and README.md and docs/credits.md files.
 
 ---
