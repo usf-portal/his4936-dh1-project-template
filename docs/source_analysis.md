@@ -1,12 +1,7 @@
 # Source Analysis
 
-Delete this introductory material when submitting your assignment.
-
-This source analysis should discuss whatever source(s) you used for this project.
-
 See the [README.md](README.md) file for information on how to submit this assignment.
 
-**You SHOULD revise your source analysis if you already did one for the given website.**
 ---
 
 ## Basic Source Information
