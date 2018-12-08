@@ -6,9 +6,9 @@
 
 WikiLeaks. “Hillary Clinton Email Archive.” WikiLeaks. February 2, 2018. https://wikileaks.org/clinton-emails/.
 
-WikiLeaks. “Hil.” WikiLeaks. February 2, 2018. https://wikileaks.org/clinton-emails/.
+WikiLeaks. “What is WikiLeaks?.” WikiLeaks. November 3, 2015. https://wikileaks.org/clinton-emails/.
 
-
+Currier, Cora and Micah Lee. “In Leaked Chats, WikiLeaks Discusses Preference for GOP Over Clinton, Russia, Trolling, and Feminists They Don’t Like.” The Intercept (italicize). February 14, 2018.
 * List your bibliography items here, whether historical and/or digital in nature, here.
 * It should be in [Chicago Manual of Style](chicagomanualofstyle.org)
 * Remember to *italicize* and **bold** as appropriate.
