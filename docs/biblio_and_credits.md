@@ -4,6 +4,11 @@
 
 ## Project Bibliography
 
+WikiLeaks. “Hillary Clinton Email Archive.” WikiLeaks. February 2, 2018. https://wikileaks.org/clinton-emails/.
+
+WikiLeaks. “Hil.” WikiLeaks. February 2, 2018. https://wikileaks.org/clinton-emails/.
+
+
 * List your bibliography items here, whether historical and/or digital in nature, here.
 * It should be in [Chicago Manual of Style](chicagomanualofstyle.org)
 * Remember to *italicize* and **bold** as appropriate.
