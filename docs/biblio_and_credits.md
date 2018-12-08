@@ -14,11 +14,12 @@ Meehan, Sean R. “Text Minding: “A Response to Gender, Race, and Nationality 
 
 Orange. "Hierarchical (hierarchical)." Orange Data Mining Library. Accessed December 3, 2018. https://docs.orange.biolab.si/3/data-mining-library/reference/clustering.hierarchical.html.
 
+WikiLeaks. “About.” WikiLeaks. May 7, 2011. https://wikileaks.org/About.html.
+
 WikiLeaks. “Hillary Clinton Email Archive.” WikiLeaks. February 2, 2018. https://wikileaks.org/clinton-emails/.
 
 WikiLeaks. “What is WikiLeaks?.” WikiLeaks. November 3, 2015. https://wikileaks.org/clinton-emails/.
 
-WikiLeaks. “About.” WikiLeaks. May 7, 2011. https://wikileaks.org/About.html.
 
 
 
