@@ -12,6 +12,8 @@ Currier, Cora and Micah Lee. “In Leaked Chats, WikiLeaks Discusses Preference 
 
 Meehan, Sean R. “Text Minding: “A Response to Gender, Race, and Nationality in Black Drama, 1850-2000: Mining Differences in Language Use in Authors and their Characters” .” _Digital Humanities Quarterly_ 3, no. 2 (2009). http://digitalhumanities.org:8081/dhq/vol/3/2/000045/000045.html. Accessed December 1, 2018.
 
+Orange. "Hierarchical (hierarchical)." Orange Data Mining Library. Accessed December 3, 2018. https://docs.orange.biolab.si/3/data-mining-library/reference/clustering.hierarchical.html.
+
 WikiLeaks. “Hillary Clinton Email Archive.” WikiLeaks. February 2, 2018. https://wikileaks.org/clinton-emails/.
 
 WikiLeaks. “What is WikiLeaks?.” WikiLeaks. November 3, 2015. https://wikileaks.org/clinton-emails/.
