@@ -20,22 +20,12 @@ WikiLeaks. “Hillary Clinton Email Archive.” WikiLeaks. February 2, 2018. htt
 
 WikiLeaks. “What is WikiLeaks.” WikiLeaks. November 3, 2015. https://wikileaks.org/What-is-WikiLeaks.html.
 
-
-
-
-
-
-* List your bibliography items here, whether historical and/or digital in nature, here.
-* It should be in [Chicago Manual of Style](chicagomanualofstyle.org)
-* Remember to *italicize* and **bold** as appropriate.
-
 ---
 
 ## Project Credits
 
-* Put your group member's credits here
-* Link to any emails or github accounts (if you want)
-* Leave the credits at the bottom
+* This project created by Brandon Pearson.
+
 
 ---
 
