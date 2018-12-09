@@ -1,8 +1,7 @@
 # Project Background
 
 ---
-
-The author chose to analyze WikiLeaks Archive of Hillary Clinton's emails to try and learn how Clinton ran the Dept. of State.  
+I chose to analyze WikiLeaks' archive of Hillary Clinton's emails to try and learn how about Benghazi and what she and her allies thought of it. I chose to analyze her emails because it is a political topic, and I am interested in politics. 
 
 YOU SHOULD BE LIBERAL AND INCLUDE ANY AND ALL LINKS WHEN RELEVANT
 
