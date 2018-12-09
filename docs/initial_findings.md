@@ -4,15 +4,13 @@ My initial finding after analyzing cluster C1 is the only thing tying the emails
 
 However, conducting more thorough analysis demands a larger team - this is not a project one person can tackle - with technical skill, and if possible, more powerful technology. Since I conducted the research on my own and due to time constraints, I was only able to look at a single cluster; a larger team with more time, in contrast, could analyze more in-depth Clinton's emails. Scholars will also need technical expertise because my limited knowledge and skills hampered my ability to analyze the data by preventing me from using hierarchical clustering programs that would have aided my project. Finally, scholars will need better technology - I had to limit the size of the file I ran on Orange so my computer could process it; scholars with more powerful technology than what I have would be able to do higher quality research by analyzing a larger sample. 
 
-This is where you where you discuss any (initial) conclusions you have come to. This is also a natural place to put any and all visualizations that you come up with. In fact, this is where you tell the reader what it is you discovered. You can use the first person if that helps you discuss the process. This is where you both describe to the reader what they are looking at (if they are looking at a visualization) and, most importantly, what your interpretation of the results is.
+_This is where you where you discuss any (initial) conclusions you have come to. This is also a natural place to put any and all visualizations that you come up with. In fact, this is where you tell the reader what it is you discovered. You can use the first person if that helps you discuss the process. This is where you both describe to the reader what they are looking at (if they are looking at a visualization) and, most importantly, what your interpretation of the results is._
 
 
 
-If your project was less visualization-centric, this is where you at least explain in plain words what you learned through the process of non-visual analysis. For example, if you used text mining not for visualization purposes, but to help you manually find interesting threads of conversation in a body of documents.
-
+_If your project was less visualization-centric, this is where you at least explain in plain words what you learned through the process of non-visual analysis. For example, if you used text mining not for visualization purposes, but to help you manually find interesting threads of conversation in a body of documents.
 You should also make sure to be a cautious scholar, and to think about the limitations of what the visualizations can actually tell you. As indicated by the section name, you are **not** expected to make hard conclusions that upend serious historical debates. Rather, this is a place to explore what might be learned from visual exploration.
-
-You must also comment on where you would go next. If these are initial findings, where do you think the best profit would be for any future attempts. This is also where you can talk about pitfalls that limited your ability to learn more about the topic. How might future projects overcome these difficulties?
+You must also comment on where you would go next. If these are initial findings, where do you think the best profit would be for any future attempts. This is also where you can talk about pitfalls that limited your ability to learn more about the topic. How might future projects overcome these difficulties?_
 
 
 
