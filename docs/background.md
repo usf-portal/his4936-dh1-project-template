@@ -1,7 +1,7 @@
 # Project Background
 
 ---
-I chose to analyze WikiLeaks' archive of Hillary Clinton's emails to try and learn how about Benghazi and what she and her allies thought of it. I chose to analyze her emails because it is a political topic, and I am interested in politics. 
+ I chose to analyze WikiLeaks' archive of Hillary Clinton's emails to try and learn about Benghazi, and chose to analyze her emails because it is a political topic, and I am interested in politics. What I learned is Libya's president at least initially believed militants had infiltrated protests against an anti-Islam video to attack Benghazi; I also learned of his concern foreign businesses would see it as unstable if he was unable to eliminate the militants [(WikiLeaks, 2016)](https://wikileaks.org/clinton-emails/). I also learned of the GOP's eagerness to use Benghazi for their political gain, and the annoyance of Clinton's allies people refused to move on [(WikiLeaks, 2016)](https://wikileaks.org/clinton-emails/). 
 
 YOU SHOULD BE LIBERAL AND INCLUDE ANY AND ALL LINKS WHEN RELEVANT
 
