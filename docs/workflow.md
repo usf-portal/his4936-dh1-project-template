@@ -7,7 +7,7 @@ I chose to analyze the emails of Hillary Clinton released by WikiLeaks out of a 
 ![Orange Worklfow](imgs/workflow.png)
 	
 	
-Once I reduced the size of the files, I used Orange 3 to analyze them. In Orange, I used a “Corpus” widget to view the CSV, ran it through “Preprocess Text” to clean up the file, then put it into “Bag of Words” so it would have a numerical value. After putting Clinton’s emails through the “Bag of Words” widget, I put it in “Distances,” to calculate how similar emails were to each other based on word use, and then ran it through “Hierarchical Clustering” to ensure Orange3 put emails with similar content in the same cluster.
+Once I reduced the size of the files, I used Orange 3 to analyze them. In Orange, I used a “Corpus” widget to view the CSV, ran it through “Preprocess Text” to clean up the file, then put it into “Bag of Words” so it would have a numerical value [(Demsar, et al., 2013]( https://orange.biolab.si/citation/). After putting Clinton’s emails through the “Bag of Words” widget, I put it in “Distances,” to calculate how similar emails were to each other based on word use, and then ran it through “Hierarchical Clustering” to ensure Orange3 put emails with similar content in the same cluster [(Demsar, et al., 2013]( https://orange.biolab.si/citation/).
 	
 	
 	
