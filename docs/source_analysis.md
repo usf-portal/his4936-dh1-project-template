@@ -2,7 +2,7 @@
 
 ## Basic Source Information
 
-* The source is an online archive hosted by WikiLeaks, [https://wikileaks.org/clinton-emails/](https://wikileaks.org/clinton-emails/), consisting of 30,000 emails from Hillary Clinton's private email address released by the State Department and located at https://wikileaks.org/clinton-emails/.
+The source is an online archive hosted by WikiLeaks, [https://wikileaks.org/clinton-emails/](https://wikileaks.org/clinton-emails/), consisting of 30,000 emails from Hillary Clinton's private email address released by the State Department and located at https://wikileaks.org/clinton-emails/.
 
 
 ## Authorship
