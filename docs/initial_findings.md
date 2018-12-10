@@ -4,5 +4,4 @@ My initial finding after analyzing cluster C1 is the only thing tying the emails
 
 However, conducting more thorough analysis demands a larger team - this is not a project one person can tackle - with technical skill, and if possible, more powerful technology. Since I conducted the research on my own and due to time constraints, I was only able to look at a single cluster; a larger team with more resources, in contrast, could do a more in-depth analysis of Clinton's emails. Scholars will also need technical expertise as my limited knowledge and skills hampered my ability to analyze the data by preventing me from using hierarchical clustering programs that would have aided my project. Finally, scholars will need better technology - I had to limit the size of the file I ran on Orange so my computer could process it; scholars with more powerful technology than what I have access to would be able to do higher quality research by analyzing a larger sample. 
 
-# Finding for 11/13
 
