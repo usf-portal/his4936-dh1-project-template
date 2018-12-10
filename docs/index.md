@@ -1,27 +1,8 @@
-# Replace This Title!
+# An Analysis of Clinton's Emails!
 
 ---
 
-<figure>
-
-![Replace Me, Sample Image](imgs/caesarian_code.png)
-
-<figcaption>
-
-*Put a caption to your image here, if you want*
-
-</figcaption>
-
-</figure>
-
-1. Put an intro image above (if you want)
-2. Change the 1st line of this file to the name of your project
-3. Replace this list with the names of your group members, linking to email or github accounts (if you want)
-4. Remember to also add your credits, introductions/summarys to the mkdocs.yml and README.md and docs/credits.md files.
-
----
-
-Replace this, putting the introduction/summary of your project here. Leave the credits in the bottom section, however.
+This project consists of my analysis of Hillary Clinton's emails using Orange3's hierarchical clustering widget to group similar emails. To allow the hierarchical clustering to work, I first had to use Orange's "Bag of Words" widget to give the emails numerical value - in this case, how often specific words appeared - and put it into the "Distances" widget to see how similar certain emails were. After running it through those widgets, I  chose to analyze cluster C1 - a set of emails about Benghazi - to see what linked them together, finding that the only reason Orange grouped them together was the fact they all contained references to the attack in Benghazi or Libya. Some were about Libyan concerns regarding how it would affect international investment while others were about the 2012 Presidential election; specifically, Republicans' desire to use Benghazi to paint Obama as weak on foreign policy. 
 
 ---
 

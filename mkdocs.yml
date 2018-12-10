@@ -1,8 +1,8 @@
-site_name: HIS4936 Final Project Starter
+site_name: HIS4936 An Analysis of Clinton Emails
 theme_dir: theme
 theme: null
-copyright: 'Copyright &copy; 2018 <a href="mailto:dave.a.base@gmail.com">David J. Thomas</a>'
-repo_url: https://github.com/thePortus/his4936-starter
+copyright: 'Copyright &copy; 2018 <a href="mailto:bpearson1@mail.usf.edu">Brandon Pearson</a>'
+repo_url: https://github.com/bpearson11/Clinton-Email
 repo_name: 'GitHub'
 pages:
 - Home: 'index.md'

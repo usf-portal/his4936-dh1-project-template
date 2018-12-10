@@ -1,35 +1,24 @@
 # Source Analysis
 
-Delete this introductory material when submitting your assignment.
-
-This source analysis should discuss whatever source(s) you used for this project.
-
-See the [README.md](README.md) file for information on how to submit this assignment.
-
-**You SHOULD revise your source analysis if you already did one for the given website.**
----
-
 ## Basic Source Information
 
-* Where is your source located (URL? Or traditional media)
-* What kind of source is it? (Diaries, records of objects, data tables, etc...)
-* Who, or what organization, is responsible for hosting the source (if online), who gathered the information?
+The source is an online archive hosted by WikiLeaks, [https://wikileaks.org/clinton-emails/](https://wikileaks.org/clinton-emails/), consisting of 30,000 emails from Hillary Clinton's private email address released by the State Department and located at https://wikileaks.org/clinton-emails/.
 
----
 
 ## Authorship
 
-* Is there any information available discussing the process by which the information was gathered, or how the digital project was constructed?
-* How transparent is the project about the choices they made in gathering and transforming the data for digitalization? [Click here for an example of a an excellent 'About' page from a database about Anglo-Saxons](http://www.pase.ac.uk/about/index.html)
-* Do the organizations or individuals involved in gathering and publishing your data set have any stated goals or agendas?
-* Do the organizations or individuals involved seem to have any unstated agendas or goals?
-* If a 3rd party funded the project, who are they? Do they have any particular perspective?
+According to WikiLeaks, on March 16, 2016, it designed an engine to search through the roughly 30,000 emails released by the State Dept. as PDFs, [(WikiLeaks, 2016)](https://wikileaks.org/clinton-emails/). The State Department released them following a Freedom of Information Act request by Jason Leopold of Vice News  [(Brennan and Reid, 2015)](https://www.cbsnews.com/news/state-dept-to-comply-with-court-order-on-hillary-clintons-emails/). Aside from that, however, WikiLeaks gives visitors no other information about the project - aside from that it lets users search by term or email ID number [(WikiLeaks, 2016)](https://wikileaks.org/clinton-emails/).
 
+
+
+WikiLeaks states on its "About" page it wants to promote transparency to reduce corruption in government, business, and other institutes  [(WikiLeaks, 2011)](https://wikileaks.org/About.html). However, WikiLeaks founder and leader Julian Assange made comments in 2015 that suggest he wanted Hillary to lose the Presidential election, which means it is likely there was an ulterior motive in their construction of the dataset [(Currier and Lee, 2018)](https://theintercept.com/2018/02/14/julian-assange-wikileaks-election-clinton-trump/). 
+
+
+ 
 ---
 
 ## Data Analysis
 
-* Do the datasets involved reflect the viewpoints of particular groups or institutions, and if so, who?
-* What kinds of categorizations do you find in the data, and do they seem reasonable?
-* Do the means of data collection or categorization affect how the data is constructed in any way?
-* Does the website contain any tools for visualizing the data? Do they seem like they are making any kind of arguments?
+  The emails reflect the views of Hillary Clinton and the people she is closest to - politically and otherwise, while their digitization reflects Julian Assange's anti-Clinton stance - the search engine facilitates a user's ability to sift through her emails and find details damaging to Clinton. However, in contrast to these individuals, Jason Leopold seems to have no motive in filing an FOIA other than wanting to break a story.
+
+
