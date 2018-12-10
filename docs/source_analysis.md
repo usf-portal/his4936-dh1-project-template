@@ -1,9 +1,5 @@
 # Source Analysis
 
-See the [README.md](README.md) file for information on how to submit this assignment.
-
----
-
 ## Basic Source Information
 
 * The source is an online archive hosted by WikiLeaks, [https://wikileaks.org/clinton-emails/](https://wikileaks.org/clinton-emails/), consisting of 30,000 emails from Hillary Clinton's private email address released by the State Department and located at https://wikileaks.org/clinton-emails/.
@@ -22,9 +18,6 @@ WikiLeaks states on its "About" page it wants to promote transparency to reduce 
 ---
 
 ## Data Analysis
-
-* Do the datasets involved reflect the viewpoints of particular groups or institutions, and if so, who?
-
 
   The emails reflect the views of Hillary Clinton and the people she is closest to - politically and otherwise, while their digitization reflects Julian Assange's anti-Clinton stance - the search engine facilitates a user's ability to sift through her emails and find details damaging to Clinton. However, in contrast to these individuals, Jason Leopold seems to have no motive in filing an FOIA other than wanting to break a story.
 
