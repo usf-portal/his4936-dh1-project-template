@@ -1,5 +1,5 @@
-# HIS4936 - Hacking History
-Digital Workbook, [University of South Florida](http://www.usf.edu/), Fall 2016
+# Hacking History
+Digital Workbook, [Boston College](http://www.bc.edu/), Fall 2023
 
 ---
 
